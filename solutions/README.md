@@ -101,6 +101,7 @@
 
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
 | --- | --- | --- | --- | --- | --- | --- |
+| 0019 | Remove Nth Node From End of List | Medium | Java | 2021-10-01T16:33:15+00:00 | [code](./Uncategorized/0019-remove-nth-node-from-end-of-list.java) / [readme](./Uncategorized/0019-remove-nth-node-from-end-of-list.java.md) | Linked List, Two Pointers |
 | 0019 | Remove Nth Node From End of List | Medium | Python3 | 2024-09-29T20:52:21+00:00 | [code](./Uncategorized/0019-remove-nth-node-from-end-of-list.py) / [readme](./Uncategorized/0019-remove-nth-node-from-end-of-list.python3.md) | Linked List, Two Pointers |
 | 0061 | Rotate List | Medium | Python3 | 2025-03-18T04:52:59+00:00 | [code](./Uncategorized/0061-rotate-list.py) / [readme](./Uncategorized/0061-rotate-list.python3.md) | Linked List, Two Pointers |
 | 0086 | Partition List | Medium | Python3 | 2026-03-11T04:00:22+00:00 | [code](./Uncategorized/0086-partition-list.py) / [readme](./Uncategorized/0086-partition-list.python3.md) | Linked List, Two Pointers |
