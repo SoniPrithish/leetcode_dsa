@@ -37,6 +37,7 @@
 | 0485 | Max Consecutive Ones | Easy | Python3 | 2025-03-17T21:33:51+00:00 | [code](./Arrays/0485-max-consecutive-ones.py) / [readme](./Arrays/0485-max-consecutive-ones.python3.md) | Array |
 | 0496 | Next Greater Element I | Easy | Java | 2025-03-28T08:03:40+00:00 | [code](./Arrays/0496-next-greater-element-i.java) / [readme](./Arrays/0496-next-greater-element-i.java.md) | Array, Hash Table, Stack, Monotonic Stack |
 | 0561 | Array Partition | Easy | Python3 | 2023-05-28T16:46:40+00:00 | [code](./Arrays/0561-array-partition.py) / [readme](./Arrays/0561-array-partition.python3.md) | Array, Greedy, Sorting, Counting Sort |
+| 0575 | Distribute Candies | Easy | Python3 | 2023-05-28T17:02:02+00:00 | [code](./Arrays/0575-distribute-candies.py) / [readme](./Arrays/0575-distribute-candies.python3.md) | Array, Hash Table |
 | 0594 | Longest Harmonious Subsequence | Easy | Python3 | 2023-05-27T19:20:09+00:00 | [code](./Arrays/0594-longest-harmonious-subsequence.py) / [readme](./Arrays/0594-longest-harmonious-subsequence.python3.md) | Array, Hash Table, Sliding Window, Sorting, Counting |
 | 0740 | Delete and Earn | Medium | Python3 | 2026-03-23T02:17:08+00:00 | [code](./Arrays/0740-delete-and-earn.py) / [readme](./Arrays/0740-delete-and-earn.python3.md) | Array, Hash Table, Dynamic Programming |
 | 0746 | Min Cost Climbing Stairs | Easy | Python3 | 2026-03-23T00:41:51+00:00 | [code](./Arrays/0746-min-cost-climbing-stairs.py) / [readme](./Arrays/0746-min-cost-climbing-stairs.python3.md) | Array, Dynamic Programming |
