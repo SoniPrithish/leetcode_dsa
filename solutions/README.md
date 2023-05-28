@@ -42,7 +42,7 @@
 | 0740 | Delete and Earn | Medium | Python3 | 2026-03-23T02:17:08+00:00 | [code](./Arrays/0740-delete-and-earn.py) / [readme](./Arrays/0740-delete-and-earn.python3.md) | Array, Hash Table, Dynamic Programming |
 | 0746 | Min Cost Climbing Stairs | Easy | Python3 | 2026-03-23T00:41:51+00:00 | [code](./Arrays/0746-min-cost-climbing-stairs.py) / [readme](./Arrays/0746-min-cost-climbing-stairs.python3.md) | Array, Dynamic Programming |
 | 0896 | Monotonic Array | Easy | Python3 | 2023-05-27T19:19:57+00:00 | [code](./Arrays/0896-monotonic-array.py) / [readme](./Arrays/0896-monotonic-array.python3.md) | Array |
-| 0908 | Smallest Range I | Easy | Python3 | 2023-05-28T17:18:39+00:00 | [code](./Arrays/0908-smallest-range-i.py) / [readme](./Arrays/0908-smallest-range-i.python3.md) | Array, Math |
+| 0908 | Smallest Range I | Easy | Python3 | 2023-05-28T17:21:12+00:00 | [code](./Arrays/0908-smallest-range-i.py) / [readme](./Arrays/0908-smallest-range-i.python3.md) | Array, Math |
 | 1232 | Check If It Is a Straight Line | Easy | Python3 | 2023-06-08T20:06:54+00:00 | [code](./Arrays/1232-check-if-it-is-a-straight-line.py) / [readme](./Arrays/1232-check-if-it-is-a-straight-line.python3.md) | Array, Math, Geometry |
 | 1700 | Number of Students Unable to Eat Lunch | Easy | Java | 2023-09-06T17:32:38+00:00 | [code](./Arrays/1700-number-of-students-unable-to-eat-lunch.java) / [readme](./Arrays/1700-number-of-students-unable-to-eat-lunch.java.md) | Array, Stack, Queue, Simulation |
 | 2073 | Time Needed to Buy Tickets | Easy | Java | 2023-09-06T18:20:46+00:00 | [code](./Arrays/2073-time-needed-to-buy-tickets.java) / [readme](./Arrays/2073-time-needed-to-buy-tickets.java.md) | Array, Queue, Simulation |
