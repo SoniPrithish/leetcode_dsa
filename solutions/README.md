@@ -32,6 +32,7 @@
 | 0198 | House Robber | Medium | Python3 | 2026-03-23T01:37:11+00:00 | [code](./Arrays/0198-house-robber.py) / [readme](./Arrays/0198-house-robber.python3.md) | Array, Dynamic Programming |
 | 0217 | Contains Duplicate | Easy | Python3 | 2024-09-01T05:20:47+00:00 | [code](./Arrays/0217-contains-duplicate.py) / [readme](./Arrays/0217-contains-duplicate.python3.md) | Array, Hash Table, Sorting |
 | 0239 | Sliding Window Maximum | Hard | Java | 2025-04-06T23:41:15+00:00 | [code](./Arrays/0239-sliding-window-maximum.java) / [readme](./Arrays/0239-sliding-window-maximum.java.md) | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |
+| 0283 | Move Zeroes | Easy | Python3 | 2023-06-05T08:26:09+00:00 | [code](./Arrays/0283-move-zeroes.py) / [readme](./Arrays/0283-move-zeroes.python3.md) | Array, Two Pointers |
 | 0350 | Intersection of Two Arrays II | Easy | Python3 | 2024-09-04T05:42:24+00:00 | [code](./Arrays/0350-intersection-of-two-arrays-ii.py) / [readme](./Arrays/0350-intersection-of-two-arrays-ii.python3.md) | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 0442 | Find All Duplicates in an Array | Medium | Python3 | 2023-06-04T18:25:29+00:00 | [code](./Arrays/0442-find-all-duplicates-in-an-array.py) / [readme](./Arrays/0442-find-all-duplicates-in-an-array.python3.md) | Array, Hash Table, Sorting |
 | 0455 | Assign Cookies | Easy | Java | 2025-03-25T23:53:18+00:00 | [code](./Arrays/0455-assign-cookies.java) / [readme](./Arrays/0455-assign-cookies.java.md) | Array, Two Pointers, Greedy, Sorting |
