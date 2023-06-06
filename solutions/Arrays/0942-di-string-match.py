@@ -11,4 +11,4 @@ class Solution:
             else:
                 result.append(high)
                 high-=1
-        return result+[low]
+        return result+[high]
