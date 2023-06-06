@@ -4,5 +4,5 @@ problem_number = "0942"
 difficulty = "Easy"
 topics = ["Array", "Two Pointers", "String", "Greedy"]
 language = "Python3"
-submission_date = "2023-06-06T18:21:31+00:00"
+submission_date = "2023-06-06T18:23:30+00:00"
 +++

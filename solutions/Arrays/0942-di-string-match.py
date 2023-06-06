@@ -4,8 +4,8 @@ class Solution:
         high=len(s)
         result=[]
 
-        for i in range(len(s)):
-            if s[i]=="I":
+        for i in s:
+            if i=="I":
                 result.append(low)
                 low+=1
             else:
