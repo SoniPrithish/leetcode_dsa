@@ -16,6 +16,7 @@
 | 0051 | N-Queens | Hard | Java | 2025-07-26T08:04:40+00:00 | [code](./Arrays/0051-n-queens.java) / [readme](./Arrays/0051-n-queens.java.md) | Array, Backtracking |
 | 0053 | Maximum Subarray | Medium | Python3 | 2024-09-05T04:04:50+00:00 | [code](./Arrays/0053-maximum-subarray.py) / [readme](./Arrays/0053-maximum-subarray.python3.md) | Array, Divide and Conquer, Dynamic Programming |
 | 0073 | Set Matrix Zeroes | Medium | Python3 | 2024-09-07T06:27:16+00:00 | [code](./Arrays/0073-set-matrix-zeroes.py) / [readme](./Arrays/0073-set-matrix-zeroes.python3.md) | Array, Hash Table, Matrix |
+| 0074 | Search a 2D Matrix | Medium | Python3 | 2023-06-07T09:34:41+00:00 | [code](./Arrays/0074-search-a-2d-matrix.py) / [readme](./Arrays/0074-search-a-2d-matrix.python3.md) | Array, Binary Search, Matrix |
 | 0075 | Sort Colors | Medium | Python3 | 2024-09-05T23:28:57+00:00 | [code](./Arrays/0075-sort-colors.py) / [readme](./Arrays/0075-sort-colors.python3.md) | Array, Two Pointers, Sorting |
 | 0084 | Largest Rectangle in Histogram | Hard | Java | 2025-04-06T20:59:13+00:00 | [code](./Arrays/0084-largest-rectangle-in-histogram.java) / [readme](./Arrays/0084-largest-rectangle-in-histogram.java.md) | Array, Stack, Monotonic Stack |
 | 0090 | Subsets II | Medium | Java | 2025-06-14T09:11:46+00:00 | [code](./Arrays/0090-subsets-ii.java) / [readme](./Arrays/0090-subsets-ii.java.md) | Array, Backtracking, Bit Manipulation |
