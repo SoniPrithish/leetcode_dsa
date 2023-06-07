@@ -30,6 +30,7 @@
 | 0160 | Intersection of Two Linked Lists | Easy | Python3 | 2024-10-17T07:14:20+00:00 | [code](./0160-intersection-of-two-linked-lists.py) / [readme](./0160-intersection-of-two-linked-lists.python3.md) | Hash Table, Linked List, Two Pointers |
 | 0189 | Rotate Array | Medium | Python3 | 2024-09-01T05:00:22+00:00 | [code](./0189-rotate-array.py) / [readme](./0189-rotate-array.python3.md) | Array, Math, Two Pointers |
 | 0198 | House Robber | Medium | Python3 | 2026-03-23T01:37:11+00:00 | [code](./0198-house-robber.py) / [readme](./0198-house-robber.python3.md) | Array, Dynamic Programming |
+| 0205 | Isomorphic Strings | Easy | Python3 | 2023-06-07T19:53:49+00:00 | [code](./0205-isomorphic-strings.py) / [readme](./0205-isomorphic-strings.python3.md) | Hash Table, String |
 | 0217 | Contains Duplicate | Easy | Python3 | 2024-09-01T05:20:47+00:00 | [code](./0217-contains-duplicate.py) / [readme](./0217-contains-duplicate.python3.md) | Array, Hash Table, Sorting |
 | 0239 | Sliding Window Maximum | Hard | Java | 2025-04-06T23:41:15+00:00 | [code](./0239-sliding-window-maximum.java) / [readme](./0239-sliding-window-maximum.java.md) | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |
 | 0283 | Move Zeroes | Easy | Python3 | 2023-06-05T08:26:09+00:00 | [code](./0283-move-zeroes.py) / [readme](./0283-move-zeroes.python3.md) | Array, Two Pointers |
