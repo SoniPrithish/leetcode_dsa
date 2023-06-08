@@ -114,6 +114,7 @@
 | 0557 | Reverse Words in a String III | Easy | Python3 | 2023-06-08T18:23:08+00:00 | [code](./Strings/0557-reverse-words-in-a-string-iii.py) / [readme](./Strings/0557-reverse-words-in-a-string-iii.python3.md) | Two Pointers, String |
 | 0678 | Valid Parenthesis String | Medium | Python3 | 2023-06-09T18:45:25+00:00 | [code](./Strings/0678-valid-parenthesis-string.py) / [readme](./Strings/0678-valid-parenthesis-string.python3.md) | String, Dynamic Programming, Stack, Greedy |
 | 0712 | Minimum ASCII Delete Sum for Two Strings | Medium | Python3 | 2023-06-09T18:11:18+00:00 | [code](./Strings/0712-minimum-ascii-delete-sum-for-two-strings.py) / [readme](./Strings/0712-minimum-ascii-delete-sum-for-two-strings.python3.md) | String, Dynamic Programming |
+| 0796 | Rotate String | Easy | Python3 | 2023-06-08T18:56:25+00:00 | [code](./Strings/0796-rotate-string.py) / [readme](./Strings/0796-rotate-string.python3.md) | String, String Matching |
 | 1143 | Longest Common Subsequence | Medium | Python3 | 2026-03-23T05:55:10+00:00 | [code](./Strings/1143-longest-common-subsequence.py) / [readme](./Strings/1143-longest-common-subsequence.python3.md) | String, Dynamic Programming |
 | 1768 | Merge Strings Alternately | Easy | Java | 2023-09-14T05:31:23+00:00 | [code](./Strings/1768-merge-strings-alternately.java) / [readme](./Strings/1768-merge-strings-alternately.java.md) | Two Pointers, String |
 
