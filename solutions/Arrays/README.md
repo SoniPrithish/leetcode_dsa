@@ -48,6 +48,7 @@
 | 0598 | Range Addition II | Easy | Python3 | 2023-06-02T18:58:56+00:00 | [code](./0598-range-addition-ii.py) / [readme](./0598-range-addition-ii.python3.md) | Array, Math |
 | 0740 | Delete and Earn | Medium | Python3 | 2026-03-23T02:17:08+00:00 | [code](./0740-delete-and-earn.py) / [readme](./0740-delete-and-earn.python3.md) | Array, Hash Table, Dynamic Programming |
 | 0746 | Min Cost Climbing Stairs | Easy | Python3 | 2026-03-23T00:41:51+00:00 | [code](./0746-min-cost-climbing-stairs.py) / [readme](./0746-min-cost-climbing-stairs.python3.md) | Array, Dynamic Programming |
+| 0844 | Backspace String Compare | Easy | Python3 | 2023-06-08T19:48:07+00:00 | [code](./0844-backspace-string-compare.py) / [readme](./0844-backspace-string-compare.python3.md) | Two Pointers, String, Stack, Simulation |
 | 0896 | Monotonic Array | Easy | Python3 | 2023-05-27T19:19:57+00:00 | [code](./0896-monotonic-array.py) / [readme](./0896-monotonic-array.python3.md) | Array |
 | 0908 | Smallest Range I | Easy | Python3 | 2023-05-28T17:22:40+00:00 | [code](./0908-smallest-range-i.py) / [readme](./0908-smallest-range-i.python3.md) | Array, Math |
 | 0941 | Valid Mountain Array | Easy | Python3 | 2023-06-07T10:00:58+00:00 | [code](./0941-valid-mountain-array.py) / [readme](./0941-valid-mountain-array.python3.md) | Array |
