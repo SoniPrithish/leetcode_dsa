@@ -4,5 +4,5 @@ problem_number = "1232"
 difficulty = "Easy"
 topics = ["Array", "Math", "Geometry"]
 language = "Python3"
-submission_date = "2023-06-08T20:06:54+00:00"
+submission_date = "2023-06-08T20:04:57+00:00"
 +++
