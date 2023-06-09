@@ -1,0 +1,5 @@
+# Strings
+
+| # | Title | Difficulty | Language | Submitted | Files | Topics |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0712 | Minimum ASCII Delete Sum for Two Strings | Medium | Python3 | 2023-06-09T18:11:18+00:00 | [code](./0712-minimum-ascii-delete-sum-for-two-strings.py) / [readme](./0712-minimum-ascii-delete-sum-for-two-strings.python3.md) | String, Dynamic Programming |
