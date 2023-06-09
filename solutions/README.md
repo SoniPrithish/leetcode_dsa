@@ -6,6 +6,12 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 1232 | Check If It Is a Straight Line | Easy | Python3 | 2023-06-08T20:06:54+00:00 | [code](./Arrays/1232-check-if-it-is-a-straight-line.py) / [readme](./Arrays/1232-check-if-it-is-a-straight-line.python3.md) | Array, Math, Geometry |
 
+## Backtracking
+
+| # | Title | Difficulty | Language | Submitted | Files | Topics |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0231 | Power of Two | Easy | Python3 | 2023-06-09T19:28:42+00:00 | [code](./Backtracking/0231-power-of-two.py) / [readme](./Backtracking/0231-power-of-two.python3.md) | Math, Bit Manipulation, Recursion |
+
 ## Strings
 
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
