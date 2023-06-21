@@ -18,3 +18,9 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 0678 | Valid Parenthesis String | Medium | Python3 | 2023-06-09T18:45:25+00:00 | [code](./Strings/0678-valid-parenthesis-string.py) / [readme](./Strings/0678-valid-parenthesis-string.python3.md) | String, Dynamic Programming, Stack, Greedy |
 | 0712 | Minimum ASCII Delete Sum for Two Strings | Medium | Python3 | 2023-06-09T18:11:18+00:00 | [code](./Strings/0712-minimum-ascii-delete-sum-for-two-strings.py) / [readme](./Strings/0712-minimum-ascii-delete-sum-for-two-strings.python3.md) | String, Dynamic Programming |
+
+## Uncategorized
+
+| # | Title | Difficulty | Language | Submitted | Files | Topics |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2095 | Delete the Middle Node of a Linked List | Medium | Python3 | 2023-06-21T19:07:23+00:00 | [code](./Uncategorized/2095-delete-the-middle-node-of-a-linked-list.py) / [readme](./Uncategorized/2095-delete-the-middle-node-of-a-linked-list.python3.md) | Linked List, Two Pointers |
