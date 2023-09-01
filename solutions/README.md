@@ -15,6 +15,12 @@
 | 0231 | Power of Two | Easy | Python3 | 2023-06-09T19:28:42+00:00 | [code](./Backtracking/0231-power-of-two.py) / [readme](./Backtracking/0231-power-of-two.python3.md) | Math, Bit Manipulation, Recursion |
 | 0234 | Palindrome Linked List | Easy | Python3 | 2023-06-22T20:24:45+00:00 | [code](./Backtracking/0234-palindrome-linked-list.py) / [readme](./Backtracking/0234-palindrome-linked-list.python3.md) | Linked List, Two Pointers, Stack, Recursion |
 
+## Math
+
+| # | Title | Difficulty | Language | Submitted | Files | Topics |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0009 | Palindrome Number | Easy | Java | 2023-09-01T18:43:08+00:00 | [code](./Math/0009-palindrome-number.java) / [readme](./Math/0009-palindrome-number.java.md) | Math |
+
 ## Strings
 
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
