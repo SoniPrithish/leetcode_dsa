@@ -2,10 +2,10 @@ class Solution {
     public boolean isPalindrome(int x) {
         int y=x;
         int rev=0;
-    
+        int res;
         while(y>0){
-        
-            rev=10*(rev) + (y%10);
+            res=y%10;
+            rev=10*(rev) + (res);
             y=(y/10);
         }
         if (rev==x){
