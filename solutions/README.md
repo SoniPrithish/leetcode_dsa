@@ -4,6 +4,7 @@
 
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
 | --- | --- | --- | --- | --- | --- | --- |
+| 0027 | Remove Element | Easy | Java | 2023-09-02T05:12:36+00:00 | [code](./Arrays/0027-remove-element.java) / [readme](./Arrays/0027-remove-element.java.md) | Array, Two Pointers |
 | 0141 | Linked List Cycle | Easy | Python3 | 2023-06-21T19:37:09+00:00 | [code](./Arrays/0141-linked-list-cycle.py) / [readme](./Arrays/0141-linked-list-cycle.python3.md) | Hash Table, Linked List, Two Pointers |
 | 1232 | Check If It Is a Straight Line | Easy | Python3 | 2023-06-08T20:06:54+00:00 | [code](./Arrays/1232-check-if-it-is-a-straight-line.py) / [readme](./Arrays/1232-check-if-it-is-a-straight-line.python3.md) | Array, Math, Geometry |
 
