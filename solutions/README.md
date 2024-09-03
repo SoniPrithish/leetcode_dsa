@@ -8,6 +8,7 @@
 | 0026 | Remove Duplicates from Sorted Array | Easy | Python3 | 2024-09-01T01:47:02+00:00 | [code](./Arrays/0026-remove-duplicates-from-sorted-array.py) / [readme](./Arrays/0026-remove-duplicates-from-sorted-array.python3.md) | Array, Two Pointers |
 | 0027 | Remove Element | Easy | Java | 2023-09-02T05:12:36+00:00 | [code](./Arrays/0027-remove-element.java) / [readme](./Arrays/0027-remove-element.java.md) | Array, Two Pointers |
 | 0122 | Best Time to Buy and Sell Stock II | Medium | Python3 | 2024-09-01T04:51:47+00:00 | [code](./Arrays/0122-best-time-to-buy-and-sell-stock-ii.py) / [readme](./Arrays/0122-best-time-to-buy-and-sell-stock-ii.python3.md) | Array, Dynamic Programming, Greedy |
+| 0136 | Single Number | Easy | Python3 | 2024-09-03T17:50:15+00:00 | [code](./Arrays/0136-single-number.py) / [readme](./Arrays/0136-single-number.python3.md) | Array, Bit Manipulation |
 | 0141 | Linked List Cycle | Easy | Python3 | 2023-06-21T19:37:09+00:00 | [code](./Arrays/0141-linked-list-cycle.py) / [readme](./Arrays/0141-linked-list-cycle.python3.md) | Hash Table, Linked List, Two Pointers |
 | 0189 | Rotate Array | Medium | Python3 | 2024-09-01T05:00:22+00:00 | [code](./Arrays/0189-rotate-array.py) / [readme](./Arrays/0189-rotate-array.python3.md) | Array, Math, Two Pointers |
 | 0217 | Contains Duplicate | Easy | Python3 | 2024-09-01T05:20:47+00:00 | [code](./Arrays/0217-contains-duplicate.py) / [readme](./Arrays/0217-contains-duplicate.python3.md) | Array, Hash Table, Sorting |
