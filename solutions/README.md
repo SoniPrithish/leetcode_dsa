@@ -8,6 +8,7 @@
 | 0026 | Remove Duplicates from Sorted Array | Easy | Python3 | 2024-09-01T01:47:02+00:00 | [code](./Arrays/0026-remove-duplicates-from-sorted-array.py) / [readme](./Arrays/0026-remove-duplicates-from-sorted-array.python3.md) | Array, Two Pointers |
 | 0027 | Remove Element | Easy | Java | 2023-09-02T05:12:36+00:00 | [code](./Arrays/0027-remove-element.java) / [readme](./Arrays/0027-remove-element.java.md) | Array, Two Pointers |
 | 0053 | Maximum Subarray | Medium | Python3 | 2024-09-05T04:04:50+00:00 | [code](./Arrays/0053-maximum-subarray.py) / [readme](./Arrays/0053-maximum-subarray.python3.md) | Array, Divide and Conquer, Dynamic Programming |
+| 0075 | Sort Colors | Medium | Python3 | 2024-09-05T23:15:19+00:00 | [code](./Arrays/0075-sort-colors.py) / [readme](./Arrays/0075-sort-colors.python3.md) | Array, Two Pointers, Sorting |
 | 0118 | Pascal's Triangle | Easy | Python3 | 2024-09-05T23:06:11+00:00 | [code](./Arrays/0118-pascals-triangle.py) / [readme](./Arrays/0118-pascals-triangle.python3.md) | Array, Dynamic Programming |
 | 0121 | Best Time to Buy and Sell Stock | Easy | Python3 | 2024-09-04T20:46:12+00:00 | [code](./Arrays/0121-best-time-to-buy-and-sell-stock.py) / [readme](./Arrays/0121-best-time-to-buy-and-sell-stock.python3.md) | Array, Dynamic Programming |
 | 0122 | Best Time to Buy and Sell Stock II | Medium | Python3 | 2024-09-01T04:51:47+00:00 | [code](./Arrays/0122-best-time-to-buy-and-sell-stock-ii.py) / [readme](./Arrays/0122-best-time-to-buy-and-sell-stock-ii.python3.md) | Array, Dynamic Programming, Greedy |
