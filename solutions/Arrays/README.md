@@ -7,6 +7,7 @@
 | 0027 | Remove Element | Easy | Java | 2023-09-02T05:12:36+00:00 | [code](./0027-remove-element.java) / [readme](./0027-remove-element.java.md) | Array, Two Pointers |
 | 0031 | Next Permutation | Medium | Python3 | 2024-09-06T20:57:50+00:00 | [code](./0031-next-permutation.py) / [readme](./0031-next-permutation.python3.md) | Array, Two Pointers |
 | 0053 | Maximum Subarray | Medium | Python3 | 2024-09-05T04:04:50+00:00 | [code](./0053-maximum-subarray.py) / [readme](./0053-maximum-subarray.python3.md) | Array, Divide and Conquer, Dynamic Programming |
+| 0073 | Set Matrix Zeroes | Medium | Python3 | 2024-09-07T06:27:16+00:00 | [code](./0073-set-matrix-zeroes.py) / [readme](./0073-set-matrix-zeroes.python3.md) | Array, Hash Table, Matrix |
 | 0075 | Sort Colors | Medium | Python3 | 2024-09-05T23:28:57+00:00 | [code](./0075-sort-colors.py) / [readme](./0075-sort-colors.python3.md) | Array, Two Pointers, Sorting |
 | 0118 | Pascal's Triangle | Easy | Python3 | 2024-09-05T23:06:11+00:00 | [code](./0118-pascals-triangle.py) / [readme](./0118-pascals-triangle.python3.md) | Array, Dynamic Programming |
 | 0121 | Best Time to Buy and Sell Stock | Easy | Python3 | 2024-09-04T20:46:12+00:00 | [code](./0121-best-time-to-buy-and-sell-stock.py) / [readme](./0121-best-time-to-buy-and-sell-stock.python3.md) | Array, Dynamic Programming |
