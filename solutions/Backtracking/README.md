@@ -2,6 +2,7 @@
 
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
 | --- | --- | --- | --- | --- | --- | --- |
+| 0002 | Add Two Numbers | Medium | Python3 | 2024-09-27T21:41:53+00:00 | [code](./0002-add-two-numbers.py) / [readme](./0002-add-two-numbers.python3.md) | Linked List, Math, Recursion |
 | 0021 | Merge Two Sorted Lists | Easy | Python3 | 2023-06-27T21:03:04+00:00 | [code](./0021-merge-two-sorted-lists.py) / [readme](./0021-merge-two-sorted-lists.python3.md) | Linked List, Recursion |
 | 0203 | Remove Linked List Elements | Easy | Python3 | 2024-09-26T18:19:57+00:00 | [code](./0203-remove-linked-list-elements.py) / [readme](./0203-remove-linked-list-elements.python3.md) | Linked List, Recursion |
 | 0206 | Reverse Linked List | Easy | Python3 | 2024-09-18T17:32:26+00:00 | [code](./0206-reverse-linked-list.py) / [readme](./0206-reverse-linked-list.python3.md) | Linked List, Recursion |
