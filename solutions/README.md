@@ -49,7 +49,7 @@
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0002 | Add Two Numbers | Medium | Python3 | 2024-09-27T21:41:53+00:00 | [code](./Backtracking/0002-add-two-numbers.py) / [readme](./Backtracking/0002-add-two-numbers.python3.md) | Linked List, Math, Recursion |
-| 0021 | Merge Two Sorted Lists | Easy | Python3 | 2023-06-27T21:03:04+00:00 | [code](./Backtracking/0021-merge-two-sorted-lists.py) / [readme](./Backtracking/0021-merge-two-sorted-lists.python3.md) | Linked List, Recursion |
+| 0021 | Merge Two Sorted Lists | Easy | Python3 | 2024-10-04T22:42:05+00:00 | [code](./Backtracking/0021-merge-two-sorted-lists.py) / [readme](./Backtracking/0021-merge-two-sorted-lists.python3.md) | Linked List, Recursion |
 | 0060 | Permutation Sequence | Hard | Java | 2025-07-25T07:04:20+00:00 | [code](./Backtracking/0060-permutation-sequence.java) / [readme](./Backtracking/0060-permutation-sequence.java.md) | Math, Recursion |
 | 0203 | Remove Linked List Elements | Easy | Python3 | 2024-09-26T18:19:57+00:00 | [code](./Backtracking/0203-remove-linked-list-elements.py) / [readme](./Backtracking/0203-remove-linked-list-elements.python3.md) | Linked List, Recursion |
 | 0206 | Reverse Linked List | Easy | Python3 | 2024-09-18T17:32:26+00:00 | [code](./Backtracking/0206-reverse-linked-list.py) / [readme](./Backtracking/0206-reverse-linked-list.python3.md) | Linked List, Recursion |
