@@ -4,5 +4,5 @@ problem_number = "0876"
 difficulty = "Easy"
 topics = ["Linked List", "Two Pointers"]
 language = "Python3"
-submission_date = "2024-10-04T21:55:29+00:00"
+submission_date = "2024-10-04T21:54:41+00:00"
 +++
