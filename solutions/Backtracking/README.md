@@ -7,4 +7,4 @@
 | 0203 | Remove Linked List Elements | Easy | Python3 | 2024-09-26T18:19:57+00:00 | [code](./0203-remove-linked-list-elements.py) / [readme](./0203-remove-linked-list-elements.python3.md) | Linked List, Recursion |
 | 0206 | Reverse Linked List | Easy | Python3 | 2024-09-18T17:32:26+00:00 | [code](./0206-reverse-linked-list.py) / [readme](./0206-reverse-linked-list.python3.md) | Linked List, Recursion |
 | 0231 | Power of Two | Easy | Python3 | 2023-06-09T19:28:42+00:00 | [code](./0231-power-of-two.py) / [readme](./0231-power-of-two.python3.md) | Math, Bit Manipulation, Recursion |
-| 0234 | Palindrome Linked List | Easy | Python3 | 2023-06-22T20:24:45+00:00 | [code](./0234-palindrome-linked-list.py) / [readme](./0234-palindrome-linked-list.python3.md) | Linked List, Two Pointers, Stack, Recursion |
+| 0234 | Palindrome Linked List | Easy | Python3 | 2024-10-23T17:35:34+00:00 | [code](./0234-palindrome-linked-list.py) / [readme](./0234-palindrome-linked-list.python3.md) | Linked List, Two Pointers, Stack, Recursion |
