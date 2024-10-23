@@ -16,6 +16,7 @@
 | 0122 | Best Time to Buy and Sell Stock II | Medium | Python3 | 2024-09-01T04:51:47+00:00 | [code](./Arrays/0122-best-time-to-buy-and-sell-stock-ii.py) / [readme](./Arrays/0122-best-time-to-buy-and-sell-stock-ii.python3.md) | Array, Dynamic Programming, Greedy |
 | 0136 | Single Number | Easy | Python3 | 2024-09-03T17:50:15+00:00 | [code](./Arrays/0136-single-number.py) / [readme](./Arrays/0136-single-number.python3.md) | Array, Bit Manipulation |
 | 0141 | Linked List Cycle | Easy | Python3 | 2024-10-21T23:27:09+00:00 | [code](./Arrays/0141-linked-list-cycle.py) / [readme](./Arrays/0141-linked-list-cycle.python3.md) | Hash Table, Linked List, Two Pointers |
+| 0142 | Linked List Cycle II | Medium | Python3 | 2024-10-23T18:15:48+00:00 | [code](./Arrays/0142-linked-list-cycle-ii.py) / [readme](./Arrays/0142-linked-list-cycle-ii.python3.md) | Hash Table, Linked List, Two Pointers |
 | 0160 | Intersection of Two Linked Lists | Easy | Python3 | 2024-10-17T07:14:20+00:00 | [code](./Arrays/0160-intersection-of-two-linked-lists.py) / [readme](./Arrays/0160-intersection-of-two-linked-lists.python3.md) | Hash Table, Linked List, Two Pointers |
 | 0189 | Rotate Array | Medium | Python3 | 2024-09-01T05:00:22+00:00 | [code](./Arrays/0189-rotate-array.py) / [readme](./Arrays/0189-rotate-array.python3.md) | Array, Math, Two Pointers |
 | 0217 | Contains Duplicate | Easy | Python3 | 2024-09-01T05:20:47+00:00 | [code](./Arrays/0217-contains-duplicate.py) / [readme](./Arrays/0217-contains-duplicate.python3.md) | Array, Hash Table, Sorting |
