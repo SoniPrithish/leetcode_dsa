@@ -20,6 +20,7 @@
 | 0189 | Rotate Array | Medium | Python3 | 2024-09-01T05:00:22+00:00 | [code](./0189-rotate-array.py) / [readme](./0189-rotate-array.python3.md) | Array, Math, Two Pointers |
 | 0217 | Contains Duplicate | Easy | Python3 | 2024-09-01T05:20:47+00:00 | [code](./0217-contains-duplicate.py) / [readme](./0217-contains-duplicate.python3.md) | Array, Hash Table, Sorting |
 | 0350 | Intersection of Two Arrays II | Easy | Python3 | 2024-09-04T05:42:24+00:00 | [code](./0350-intersection-of-two-arrays-ii.py) / [readme](./0350-intersection-of-two-arrays-ii.python3.md) | Array, Hash Table, Two Pointers, Binary Search, Sorting |
+| 0485 | Max Consecutive Ones | Easy | Python3 | 2025-03-17T21:33:51+00:00 | [code](./0485-max-consecutive-ones.py) / [readme](./0485-max-consecutive-ones.python3.md) | Array |
 | 1232 | Check If It Is a Straight Line | Easy | Python3 | 2023-06-08T20:06:54+00:00 | [code](./1232-check-if-it-is-a-straight-line.py) / [readme](./1232-check-if-it-is-a-straight-line.python3.md) | Array, Math, Geometry |
 | 1700 | Number of Students Unable to Eat Lunch | Easy | Java | 2023-09-06T17:32:38+00:00 | [code](./1700-number-of-students-unable-to-eat-lunch.java) / [readme](./1700-number-of-students-unable-to-eat-lunch.java.md) | Array, Stack, Queue, Simulation |
 | 2073 | Time Needed to Buy Tickets | Easy | Java | 2023-09-06T18:20:46+00:00 | [code](./2073-time-needed-to-buy-tickets.java) / [readme](./2073-time-needed-to-buy-tickets.java.md) | Array, Queue, Simulation |
