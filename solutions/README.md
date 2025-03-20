@@ -27,6 +27,7 @@
 | 1232 | Check If It Is a Straight Line | Easy | Python3 | 2023-06-08T20:06:54+00:00 | [code](./Arrays/1232-check-if-it-is-a-straight-line.py) / [readme](./Arrays/1232-check-if-it-is-a-straight-line.python3.md) | Array, Math, Geometry |
 | 1700 | Number of Students Unable to Eat Lunch | Easy | Java | 2023-09-06T17:32:38+00:00 | [code](./Arrays/1700-number-of-students-unable-to-eat-lunch.java) / [readme](./Arrays/1700-number-of-students-unable-to-eat-lunch.java.md) | Array, Stack, Queue, Simulation |
 | 2073 | Time Needed to Buy Tickets | Easy | Java | 2023-09-06T18:20:46+00:00 | [code](./Arrays/2073-time-needed-to-buy-tickets.java) / [readme](./Arrays/2073-time-needed-to-buy-tickets.java.md) | Array, Queue, Simulation |
+| 2206 | Divide Array Into Equal Pairs | Easy | Java | 2025-03-20T06:42:56+00:00 | [code](./Arrays/2206-divide-array-into-equal-pairs.java) / [readme](./Arrays/2206-divide-array-into-equal-pairs.java.md) | Array, Hash Table, Bit Manipulation, Counting |
 | 2696 | Minimum String Length After Removing Substrings | Easy | Java | 2023-09-06T16:38:36+00:00 | [code](./Arrays/2696-minimum-string-length-after-removing-substrings.java) / [readme](./Arrays/2696-minimum-string-length-after-removing-substrings.java.md) | String, Stack, Simulation |
 
 ## Backtracking
