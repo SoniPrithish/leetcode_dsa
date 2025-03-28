@@ -1,31 +1,56 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int[] result=new int[(nums1.length)];
-        int ct=0;
-    for(int i:nums1)
-    {
-        int ok=i;
-        boolean flag=false;
-        int op=-1;
-        for(int j:nums2)
+        Stack<Integer> nge=new Stack<>();
+        Map<Integer,Integer> ok=new HashMap<>();
+        int[] result=new int[nums1.length];
+        int[] c=nums2;
+        for(int i=nums2.length-1;i>=0;i--)
         {
+            int temp2=nums2[i];
 
-            if(i==j)
+            if(nge.isEmpty())
             {
-                flag=true;
+                nums2[i]=-1;
+                ok.put(temp2,-1);
+                nge.push(temp2);
+                
             }
-            if(flag==true && j>ok)
+            else if(nge.peek()<=temp2)
             {
-                op=j;
-                break;
+                while(!nge.isEmpty() && nge.peek()<=temp2)
+                {
+                    nge.pop();
+                }
+                if (nge.isEmpty())
+                {
+                    nums2[i]=-1;
+                    ok.put(temp2,-1);
+                    nge.push(temp2);
+                
+                    continue;
+                }
+                nums2[i]=nge.peek();
+                ok.put(temp2,nge.peek());
+                nge.push(temp2);
+                
+                
             }
-            
-            
+            else
+            {
+                nums2[i]=nge.peek();
+                ok.put(temp2,nge.peek());
+                nge.push(temp2);
+            }
 
         }
-        result[ct]=op;
-        ct++;
+    for(int i=0;i<nums1.length;i++)
+    {
+        result[i]=ok.get(nums1[i]);
     }
+
+
+
     return result;
+
     }
 }
