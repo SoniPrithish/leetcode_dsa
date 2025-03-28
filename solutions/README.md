@@ -35,7 +35,7 @@
 | 0455 | Assign Cookies | Easy | Java | 2025-03-25T23:53:18+00:00 | [code](./Arrays/0455-assign-cookies.java) / [readme](./Arrays/0455-assign-cookies.java.md) | Array, Two Pointers, Greedy, Sorting |
 | 0460 | LFU Cache | Hard | Java | 2025-05-28T22:20:19+00:00 | [code](./Arrays/0460-lfu-cache.java) / [readme](./Arrays/0460-lfu-cache.java.md) | Hash Table, Linked List, Design, Doubly-Linked List |
 | 0485 | Max Consecutive Ones | Easy | Python3 | 2025-03-17T21:33:51+00:00 | [code](./Arrays/0485-max-consecutive-ones.py) / [readme](./Arrays/0485-max-consecutive-ones.python3.md) | Array |
-| 0496 | Next Greater Element I | Easy | Java | 2025-03-28T08:03:40+00:00 | [code](./Arrays/0496-next-greater-element-i.java) / [readme](./Arrays/0496-next-greater-element-i.java.md) | Array, Hash Table, Stack, Monotonic Stack |
+| 0496 | Next Greater Element I | Easy | Java | 2025-03-28T05:28:45+00:00 | [code](./Arrays/0496-next-greater-element-i.java) / [readme](./Arrays/0496-next-greater-element-i.java.md) | Array, Hash Table, Stack, Monotonic Stack |
 | 0740 | Delete and Earn | Medium | Python3 | 2026-03-23T02:17:08+00:00 | [code](./Arrays/0740-delete-and-earn.py) / [readme](./Arrays/0740-delete-and-earn.python3.md) | Array, Hash Table, Dynamic Programming |
 | 0746 | Min Cost Climbing Stairs | Easy | Python3 | 2026-03-23T00:41:51+00:00 | [code](./Arrays/0746-min-cost-climbing-stairs.py) / [readme](./Arrays/0746-min-cost-climbing-stairs.python3.md) | Array, Dynamic Programming |
 | 1232 | Check If It Is a Straight Line | Easy | Python3 | 2023-06-08T20:06:54+00:00 | [code](./Arrays/1232-check-if-it-is-a-straight-line.py) / [readme](./Arrays/1232-check-if-it-is-a-straight-line.python3.md) | Array, Math, Geometry |
