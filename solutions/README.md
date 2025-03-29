@@ -49,6 +49,12 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 0009 | Palindrome Number | Easy | Java | 2023-09-01T18:44:34+00:00 | [code](./Math/0009-palindrome-number.java) / [readme](./Math/0009-palindrome-number.java.md) | Math |
 
+## Stacks
+
+| # | Title | Difficulty | Language | Submitted | Files | Topics |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0225 | Implement Stack using Queues | Easy | Java | 2025-03-29T05:49:23+00:00 | [code](./Stacks/0225-implement-stack-using-queues.java) / [readme](./Stacks/0225-implement-stack-using-queues.java.md) | Stack, Design, Queue |
+
 ## Strings
 
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
