@@ -23,7 +23,7 @@ class MyStack {
     
     public boolean empty() {
         return st.isEmpty();
-}
+    }
 }
 
 /**
