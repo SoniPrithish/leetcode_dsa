@@ -25,6 +25,7 @@
 | 0239 | Sliding Window Maximum | Hard | Java | 2025-04-06T23:41:15+00:00 | [code](./0239-sliding-window-maximum.java) / [readme](./0239-sliding-window-maximum.java.md) | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |
 | 0350 | Intersection of Two Arrays II | Easy | Python3 | 2024-09-04T05:42:24+00:00 | [code](./0350-intersection-of-two-arrays-ii.py) / [readme](./0350-intersection-of-two-arrays-ii.python3.md) | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 0455 | Assign Cookies | Easy | Java | 2025-03-25T23:53:18+00:00 | [code](./0455-assign-cookies.java) / [readme](./0455-assign-cookies.java.md) | Array, Two Pointers, Greedy, Sorting |
+| 0460 | LFU Cache | Hard | Java | 2025-05-28T22:20:19+00:00 | [code](./0460-lfu-cache.java) / [readme](./0460-lfu-cache.java.md) | Hash Table, Linked List, Design, Doubly-Linked List |
 | 0485 | Max Consecutive Ones | Easy | Python3 | 2025-03-17T21:33:51+00:00 | [code](./0485-max-consecutive-ones.py) / [readme](./0485-max-consecutive-ones.python3.md) | Array |
 | 0496 | Next Greater Element I | Easy | Java | 2025-03-28T08:03:40+00:00 | [code](./0496-next-greater-element-i.java) / [readme](./0496-next-greater-element-i.java.md) | Array, Hash Table, Stack, Monotonic Stack |
 | 1232 | Check If It Is a Straight Line | Easy | Python3 | 2023-06-08T20:06:54+00:00 | [code](./1232-check-if-it-is-a-straight-line.py) / [readme](./1232-check-if-it-is-a-straight-line.python3.md) | Array, Math, Geometry |
