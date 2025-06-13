@@ -9,6 +9,7 @@
 | 0026 | Remove Duplicates from Sorted Array | Easy | Python3 | 2024-09-01T01:47:02+00:00 | [code](./Arrays/0026-remove-duplicates-from-sorted-array.py) / [readme](./Arrays/0026-remove-duplicates-from-sorted-array.python3.md) | Array, Two Pointers |
 | 0027 | Remove Element | Easy | Java | 2023-09-02T05:12:36+00:00 | [code](./Arrays/0027-remove-element.java) / [readme](./Arrays/0027-remove-element.java.md) | Array, Two Pointers |
 | 0031 | Next Permutation | Medium | Python3 | 2024-09-06T20:57:50+00:00 | [code](./Arrays/0031-next-permutation.py) / [readme](./Arrays/0031-next-permutation.python3.md) | Array, Two Pointers |
+| 0039 | Combination Sum | Medium | Java | 2025-06-13T08:22:09+00:00 | [code](./Arrays/0039-combination-sum.java) / [readme](./Arrays/0039-combination-sum.java.md) | Array, Backtracking |
 | 0053 | Maximum Subarray | Medium | Python3 | 2024-09-05T04:04:50+00:00 | [code](./Arrays/0053-maximum-subarray.py) / [readme](./Arrays/0053-maximum-subarray.python3.md) | Array, Divide and Conquer, Dynamic Programming |
 | 0073 | Set Matrix Zeroes | Medium | Python3 | 2024-09-07T06:27:16+00:00 | [code](./Arrays/0073-set-matrix-zeroes.py) / [readme](./Arrays/0073-set-matrix-zeroes.python3.md) | Array, Hash Table, Matrix |
 | 0075 | Sort Colors | Medium | Python3 | 2024-09-05T23:28:57+00:00 | [code](./Arrays/0075-sort-colors.py) / [readme](./Arrays/0075-sort-colors.python3.md) | Array, Two Pointers, Sorting |
