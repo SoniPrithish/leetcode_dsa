@@ -12,6 +12,7 @@
 | 0039 | Combination Sum | Medium | Java | 2025-06-13T08:22:09+00:00 | [code](./Arrays/0039-combination-sum.java) / [readme](./Arrays/0039-combination-sum.java.md) | Array, Backtracking |
 | 0040 | Combination Sum II | Medium | Java | 2025-06-16T09:30:44+00:00 | [code](./Arrays/0040-combination-sum-ii.java) / [readme](./Arrays/0040-combination-sum-ii.java.md) | Array, Backtracking |
 | 0046 | Permutations | Medium | Java | 2025-07-25T07:48:02+00:00 | [code](./Arrays/0046-permutations.java) / [readme](./Arrays/0046-permutations.java.md) | Array, Backtracking |
+| 0051 | N-Queens | Hard | Java | 2025-07-26T08:04:40+00:00 | [code](./Arrays/0051-n-queens.java) / [readme](./Arrays/0051-n-queens.java.md) | Array, Backtracking |
 | 0053 | Maximum Subarray | Medium | Python3 | 2024-09-05T04:04:50+00:00 | [code](./Arrays/0053-maximum-subarray.py) / [readme](./Arrays/0053-maximum-subarray.python3.md) | Array, Divide and Conquer, Dynamic Programming |
 | 0073 | Set Matrix Zeroes | Medium | Python3 | 2024-09-07T06:27:16+00:00 | [code](./Arrays/0073-set-matrix-zeroes.py) / [readme](./Arrays/0073-set-matrix-zeroes.python3.md) | Array, Hash Table, Matrix |
 | 0075 | Sort Colors | Medium | Python3 | 2024-09-05T23:28:57+00:00 | [code](./Arrays/0075-sort-colors.py) / [readme](./Arrays/0075-sort-colors.python3.md) | Array, Two Pointers, Sorting |
