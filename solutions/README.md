@@ -53,6 +53,12 @@
 | 0231 | Power of Two | Easy | Python3 | 2023-06-09T19:28:42+00:00 | [code](./Backtracking/0231-power-of-two.py) / [readme](./Backtracking/0231-power-of-two.python3.md) | Math, Bit Manipulation, Recursion |
 | 0234 | Palindrome Linked List | Easy | Python3 | 2024-10-23T17:35:34+00:00 | [code](./Backtracking/0234-palindrome-linked-list.py) / [readme](./Backtracking/0234-palindrome-linked-list.python3.md) | Linked List, Two Pointers, Stack, Recursion |
 
+## Binary Search
+
+| # | Title | Difficulty | Language | Submitted | Files | Topics |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0374 | Guess Number Higher or Lower | Easy | Python3 | 2026-03-03T05:57:35+00:00 | [code](./Binary Search/0374-guess-number-higher-or-lower.py) / [readme](./Binary Search/0374-guess-number-higher-or-lower.python3.md) | Binary Search, Interactive |
+
 ## Math
 
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
