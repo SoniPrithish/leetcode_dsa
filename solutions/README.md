@@ -91,6 +91,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 0019 | Remove Nth Node From End of List | Medium | Python3 | 2024-09-29T20:52:21+00:00 | [code](./Uncategorized/0019-remove-nth-node-from-end-of-list.py) / [readme](./Uncategorized/0019-remove-nth-node-from-end-of-list.python3.md) | Linked List, Two Pointers |
 | 0061 | Rotate List | Medium | Python3 | 2025-03-18T04:52:59+00:00 | [code](./Uncategorized/0061-rotate-list.py) / [readme](./Uncategorized/0061-rotate-list.python3.md) | Linked List, Two Pointers |
+| 0086 | Partition List | Medium | Python3 | 2026-03-11T04:00:22+00:00 | [code](./Uncategorized/0086-partition-list.py) / [readme](./Uncategorized/0086-partition-list.python3.md) | Linked List, Two Pointers |
 | 0237 | Delete Node in a Linked List | Medium | Python3 | 2024-10-04T21:59:28+00:00 | [code](./Uncategorized/0237-delete-node-in-a-linked-list.py) / [readme](./Uncategorized/0237-delete-node-in-a-linked-list.python3.md) | Linked List |
 | 0328 | Odd Even Linked List | Medium | Python3 | 2024-09-27T23:26:18+00:00 | [code](./Uncategorized/0328-odd-even-linked-list.py) / [readme](./Uncategorized/0328-odd-even-linked-list.python3.md) | Linked List |
 | 0876 | Middle of the Linked List | Easy | Python3 | 2024-10-04T21:55:29+00:00 | [code](./Uncategorized/0876-middle-of-the-linked-list.py) / [readme](./Uncategorized/0876-middle-of-the-linked-list.python3.md) | Linked List, Two Pointers |
