@@ -65,6 +65,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 0070 | Climbing Stairs | Easy | Python3 | 2026-03-15T02:48:28+00:00 | [code](./DP/0070-climbing-stairs.py) / [readme](./DP/0070-climbing-stairs.python3.md) | Math, Dynamic Programming, Memoization |
 | 0509 | Fibonacci Number | Easy | Python3 | 2026-03-22T22:55:06+00:00 | [code](./DP/0509-fibonacci-number.py) / [readme](./DP/0509-fibonacci-number.python3.md) | Math, Dynamic Programming, Recursion, Memoization |
+| 1137 | N-th Tribonacci Number | Easy | Python3 | 2026-03-22T23:00:29+00:00 | [code](./DP/1137-n-th-tribonacci-number.py) / [readme](./DP/1137-n-th-tribonacci-number.python3.md) | Math, Dynamic Programming, Memoization |
 
 ## Math
 
