@@ -123,7 +123,8 @@
     1956227609,
     1956242616,
     1956384021,
-    1956414397
+    1956414397,
+    1956427272
   ],
   "topic_cache": {
     "3sum": [
@@ -537,6 +538,10 @@
     "two-sum": [
       "Array",
       "Hash Table"
+    ],
+    "uncrossed-lines": [
+      "Array",
+      "Dynamic Programming"
     ],
     "valid-mountain-array": [
       "Array"
