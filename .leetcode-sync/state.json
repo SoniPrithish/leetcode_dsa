@@ -128,7 +128,8 @@
     1957123955,
     1957129500,
     1957130166,
-    1957150644
+    1957150644,
+    1957191877
   ],
   "topic_cache": {
     "3sum": [
@@ -177,6 +178,11 @@
       "Math",
       "Dynamic Programming",
       "Memoization"
+    ],
+    "coin-change": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
     ],
     "combination-sum": [
       "Array",
