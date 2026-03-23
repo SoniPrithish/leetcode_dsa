@@ -4,5 +4,5 @@ problem_number = "1312"
 difficulty = "Hard"
 topics = ["String", "Dynamic Programming"]
 language = "Python3"
-submission_date = "2026-03-23T20:19:17+00:00"
+submission_date = "2026-03-23T20:20:30+00:00"
 +++

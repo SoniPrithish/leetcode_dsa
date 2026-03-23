@@ -1,6 +1,8 @@
 class Solution:
     def minInsertions(self, s: str) -> int:
         t=s[::-1]
+        if t==s:
+            return 0
         k=len(s)
         m=len(t)
         prev = [0] * (m + 1)
