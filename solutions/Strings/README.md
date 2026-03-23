@@ -11,4 +11,5 @@
 | 0712 | Minimum ASCII Delete Sum for Two Strings | Medium | Python3 | 2023-06-09T18:11:18+00:00 | [code](./0712-minimum-ascii-delete-sum-for-two-strings.py) / [readme](./0712-minimum-ascii-delete-sum-for-two-strings.python3.md) | String, Dynamic Programming |
 | 0796 | Rotate String | Easy | Python3 | 2023-06-08T18:58:41+00:00 | [code](./0796-rotate-string.py) / [readme](./0796-rotate-string.python3.md) | String, String Matching |
 | 1143 | Longest Common Subsequence | Medium | Python3 | 2026-03-23T06:29:03+00:00 | [code](./1143-longest-common-subsequence.py) / [readme](./1143-longest-common-subsequence.python3.md) | String, Dynamic Programming |
+| 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Python3 | 2026-03-23T20:19:17+00:00 | [code](./1312-minimum-insertion-steps-to-make-a-string-palindrome.py) / [readme](./1312-minimum-insertion-steps-to-make-a-string-palindrome.python3.md) | String, Dynamic Programming |
 | 1768 | Merge Strings Alternately | Easy | Java | 2023-09-14T05:31:23+00:00 | [code](./1768-merge-strings-alternately.java) / [readme](./1768-merge-strings-alternately.java.md) | Two Pointers, String |

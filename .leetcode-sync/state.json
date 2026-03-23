@@ -125,7 +125,8 @@
     1956384021,
     1956414397,
     1956427272,
-    1957123955
+    1957123955,
+    1957129500
   ],
   "topic_cache": {
     "3sum": [
@@ -371,6 +372,10 @@
       "Design"
     ],
     "minimum-ascii-delete-sum-for-two-strings": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "minimum-insertion-steps-to-make-a-string-palindrome": [
       "String",
       "Dynamic Programming"
     ],
