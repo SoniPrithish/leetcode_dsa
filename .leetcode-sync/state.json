@@ -127,7 +127,8 @@
     1956427272,
     1957123955,
     1957129500,
-    1957130166
+    1957130166,
+    1957150644
   ],
   "topic_cache": {
     "3sum": [
@@ -447,6 +448,11 @@
     "pascals-triangle": [
       "Array",
       "Dynamic Programming"
+    ],
+    "perfect-squares": [
+      "Math",
+      "Dynamic Programming",
+      "Breadth-First Search"
     ],
     "permutation-sequence": [
       "Math",
