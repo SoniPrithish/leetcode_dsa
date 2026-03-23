@@ -124,7 +124,8 @@
     1956242616,
     1956384021,
     1956414397,
-    1956427272
+    1956427272,
+    1957123955
   ],
   "topic_cache": {
     "3sum": [
@@ -325,6 +326,10 @@
       "Sliding Window",
       "Sorting",
       "Counting"
+    ],
+    "longest-palindromic-subsequence": [
+      "String",
+      "Dynamic Programming"
     ],
     "lru-cache": [
       "Hash Table",
