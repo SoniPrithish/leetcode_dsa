@@ -1,2 +1,1 @@
-# Sync tool local state (not part of published solutions)
-.leetcode-sync/
+# Empty - sync state is tracked so Actions picks it up

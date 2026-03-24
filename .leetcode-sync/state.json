@@ -1,0 +1,554 @@
+{
+  "processed_submission_ids": [
+    563024457,
+    564073200,
+    958504284,
+    958554446,
+    958554587,
+    958554660,
+    958554751,
+    959094578,
+    959102554,
+    959110925,
+    959112231,
+    959112725,
+    959113018,
+    960527499,
+    962428630,
+    962432303,
+    962539922,
+    963862933,
+    964230525,
+    964236890,
+    964283533,
+    964291460,
+    964294586,
+    964299776,
+    964301964,
+    965360013,
+    965364136,
+    965365623,
+    965366027,
+    965786994,
+    965800579,
+    965818199,
+    966128576,
+    966832369,
+    966835644,
+    966846124,
+    966857838,
+    966859313,
+    966887874,
+    966896609,
+    966897562,
+    967557247,
+    967578004,
+    967601292,
+    976590016,
+    976608456,
+    977373379,
+    977390938,
+    981151873,
+    1037904926,
+    1037905640,
+    1037905722,
+    1037905917,
+    1038164668,
+    1042290682,
+    1042338882,
+    1042383062,
+    1043837334,
+    1049005333,
+    1374705183,
+    1374760207,
+    1374976034,
+    1374983055,
+    1375000107,
+    1377996216,
+    1378465600,
+    1379260774,
+    1379498037,
+    1380493533,
+    1380497782,
+    1380503989,
+    1381488464,
+    1381488926,
+    1381773109,
+    1394636415,
+    1403228832,
+    1404349412,
+    1404397328,
+    1406484341,
+    1412011305,
+    1412011689,
+    1412013660,
+    1412033151,
+    1425113504,
+    1429828531,
+    1431672390,
+    1431715706,
+    1577256859,
+    1577261944,
+    1577529300,
+    1578688635,
+    1579922127,
+    1581015096,
+    1586251345,
+    1588860394,
+    1588975512,
+    1589740597,
+    1589741736,
+    1589795992,
+    1589846230,
+    1592448239,
+    1596966460,
+    1598929665,
+    1599003232,
+    1603443459,
+    1647435326,
+    1662732376,
+    1663697109,
+    1665848920,
+    1667992859,
+    1710645385,
+    1710689390,
+    1711875849,
+    1936371318,
+    1937289752,
+    1944549240,
+    1948562761,
+    1956175558,
+    1956177336,
+    1956208418,
+    1956227609,
+    1956242616,
+    1956384021
+  ],
+  "topic_cache": {
+    "3sum": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "add-two-numbers": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "array-partition": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "assign-cookies": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ],
+    "backspace-string-compare": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "best-time-to-buy-and-sell-stock": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "best-time-to-buy-and-sell-stock-ii": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "check-if-it-is-a-straight-line": [
+      "Array",
+      "Math",
+      "Geometry"
+    ],
+    "climbing-stairs": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "combination-sum": [
+      "Array",
+      "Backtracking"
+    ],
+    "combination-sum-ii": [
+      "Array",
+      "Backtracking"
+    ],
+    "contains-duplicate": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "contiguous-array": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "convert-1d-array-into-2d-array": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "copy-list-with-random-pointer": [
+      "Hash Table",
+      "Linked List"
+    ],
+    "delete-and-earn": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ],
+    "delete-node-in-a-linked-list": [
+      "Linked List"
+    ],
+    "delete-the-middle-node-of-a-linked-list": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "di-string-match": [
+      "Array",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ],
+    "distribute-candies": [
+      "Array",
+      "Hash Table"
+    ],
+    "divide-array-into-equal-pairs": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Counting"
+    ],
+    "fibonacci-number": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ],
+    "find-all-duplicates-in-an-array": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "find-minimum-in-rotated-sorted-array": [
+      "Array",
+      "Binary Search"
+    ],
+    "find-the-distance-value-between-two-arrays": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "first-missing-positive": [
+      "Array",
+      "Hash Table"
+    ],
+    "first-unique-character-in-a-string": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ],
+    "guess-number-higher-or-lower": [
+      "Binary Search",
+      "Interactive"
+    ],
+    "house-robber": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "implement-queue-using-stacks": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "implement-stack-using-queues": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "intersection-of-two-arrays-ii": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "intersection-of-two-linked-lists": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "isomorphic-strings": [
+      "Hash Table",
+      "String"
+    ],
+    "largest-rectangle-in-histogram": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "lfu-cache": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "linked-list-cycle": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "linked-list-cycle-ii": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "longest-common-subsequence": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "longest-harmonious-subsequence": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting",
+      "Counting"
+    ],
+    "lru-cache": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "max-consecutive-ones": [
+      "Array"
+    ],
+    "maximum-subarray": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "maximum-twin-sum-of-a-linked-list": [
+      "Linked List",
+      "Two Pointers",
+      "Stack"
+    ],
+    "merge-strings-alternately": [
+      "Two Pointers",
+      "String"
+    ],
+    "merge-two-sorted-lists": [
+      "Linked List",
+      "Recursion"
+    ],
+    "middle-of-the-linked-list": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "min-cost-climbing-stairs": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "min-stack": [
+      "Stack",
+      "Design"
+    ],
+    "minimum-ascii-delete-sum-for-two-strings": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "minimum-string-length-after-removing-substrings": [
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "monotonic-array": [
+      "Array"
+    ],
+    "move-zeroes": [
+      "Array",
+      "Two Pointers"
+    ],
+    "n-queens": [
+      "Array",
+      "Backtracking"
+    ],
+    "n-th-tribonacci-number": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "next-greater-element-i": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "next-permutation": [
+      "Array",
+      "Two Pointers"
+    ],
+    "number-of-students-unable-to-eat-lunch": [
+      "Array",
+      "Stack",
+      "Queue",
+      "Simulation"
+    ],
+    "odd-even-linked-list": [
+      "Linked List"
+    ],
+    "online-stock-span": [
+      "Stack",
+      "Design",
+      "Monotonic Stack",
+      "Data Stream"
+    ],
+    "palindrome-linked-list": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "palindrome-number": [
+      "Math"
+    ],
+    "palindrome-partitioning": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "partition-list": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "pascals-triangle": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "permutation-sequence": [
+      "Math",
+      "Recursion"
+    ],
+    "permutations": [
+      "Array",
+      "Backtracking"
+    ],
+    "power-of-two": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ],
+    "range-addition-ii": [
+      "Array",
+      "Math"
+    ],
+    "remove-duplicates-from-sorted-array": [
+      "Array",
+      "Two Pointers"
+    ],
+    "remove-element": [
+      "Array",
+      "Two Pointers"
+    ],
+    "remove-linked-list-elements": [
+      "Linked List",
+      "Recursion"
+    ],
+    "remove-nth-node-from-end-of-list": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "reverse-linked-list": [
+      "Linked List",
+      "Recursion"
+    ],
+    "reverse-string-ii": [
+      "Two Pointers",
+      "String"
+    ],
+    "reverse-words-in-a-string-iii": [
+      "Two Pointers",
+      "String"
+    ],
+    "rotate-array": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "rotate-list": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "rotate-string": [
+      "String",
+      "String Matching"
+    ],
+    "search-a-2d-matrix": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "set-matrix-zeroes": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "single-number": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "sliding-window-maximum": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "smallest-range-i": [
+      "Array",
+      "Math"
+    ],
+    "sort-colors": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "subsets-ii": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "time-needed-to-buy-tickets": [
+      "Array",
+      "Queue",
+      "Simulation"
+    ],
+    "two-sum": [
+      "Array",
+      "Hash Table"
+    ],
+    "valid-mountain-array": [
+      "Array"
+    ],
+    "valid-parentheses": [
+      "String",
+      "Stack"
+    ],
+    "valid-parenthesis-string": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy"
+    ]
+  }
+}
