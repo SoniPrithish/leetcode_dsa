@@ -132,7 +132,8 @@
     1957191877,
     1958087377,
     1958230501,
-    1958230876
+    1958230876,
+    1958267174
   ],
   "topic_cache": {
     "3sum": [
@@ -553,6 +554,10 @@
     "smallest-range-i": [
       "Array",
       "Math"
+    ],
+    "solving-questions-with-brainpower": [
+      "Array",
+      "Dynamic Programming"
     ],
     "sort-colors": [
       "Array",

@@ -64,6 +64,7 @@
 | 1700 | Number of Students Unable to Eat Lunch | Easy | Java | 2023-09-06T17:32:38+00:00 | [code](./Arrays/1700-number-of-students-unable-to-eat-lunch.java) / [readme](./Arrays/1700-number-of-students-unable-to-eat-lunch.java.md) | Array, Stack, Queue, Simulation |
 | 2022 | Convert 1D Array Into 2D Array | Easy | Python3 | 2023-06-05T10:00:46+00:00 | [code](./Arrays/2022-convert-1d-array-into-2d-array.py) / [readme](./Arrays/2022-convert-1d-array-into-2d-array.python3.md) | Array, Matrix, Simulation |
 | 2073 | Time Needed to Buy Tickets | Easy | Java | 2023-09-06T18:20:46+00:00 | [code](./Arrays/2073-time-needed-to-buy-tickets.java) / [readme](./Arrays/2073-time-needed-to-buy-tickets.java.md) | Array, Queue, Simulation |
+| 2140 | Solving Questions With Brainpower | Medium | Python3 | 2026-03-24T23:00:12+00:00 | [code](./Arrays/2140-solving-questions-with-brainpower.py) / [readme](./Arrays/2140-solving-questions-with-brainpower.python3.md) | Array, Dynamic Programming |
 | 2206 | Divide Array Into Equal Pairs | Easy | Java | 2025-03-20T06:42:56+00:00 | [code](./Arrays/2206-divide-array-into-equal-pairs.java) / [readme](./Arrays/2206-divide-array-into-equal-pairs.java.md) | Array, Hash Table, Bit Manipulation, Counting |
 | 2696 | Minimum String Length After Removing Substrings | Easy | Java | 2023-09-06T16:38:36+00:00 | [code](./Arrays/2696-minimum-string-length-after-removing-substrings.java) / [readme](./Arrays/2696-minimum-string-length-after-removing-substrings.java.md) | String, Stack, Simulation |
 
