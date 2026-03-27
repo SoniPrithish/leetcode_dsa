@@ -56,6 +56,7 @@
 | 0908 | Smallest Range I | Easy | Python3 | 2023-05-28T17:22:40+00:00 | [code](./0908-smallest-range-i.py) / [readme](./0908-smallest-range-i.python3.md) | Array, Math |
 | 0941 | Valid Mountain Array | Easy | Python3 | 2023-06-07T10:00:58+00:00 | [code](./0941-valid-mountain-array.py) / [readme](./0941-valid-mountain-array.python3.md) | Array |
 | 0942 | DI String Match | Easy | Python3 | 2023-06-06T18:24:03+00:00 | [code](./0942-di-string-match.py) / [readme](./0942-di-string-match.python3.md) | Array, Two Pointers, String, Greedy |
+| 0983 | Minimum Cost For Tickets | Medium | Python3 | 2026-03-27T00:35:48+00:00 | [code](./0983-minimum-cost-for-tickets.py) / [readme](./0983-minimum-cost-for-tickets.python3.md) | Array, Dynamic Programming |
 | 1035 | Uncrossed Lines | Medium | Python3 | 2026-03-23T06:44:04+00:00 | [code](./1035-uncrossed-lines.py) / [readme](./1035-uncrossed-lines.python3.md) | Array, Dynamic Programming |
 | 1232 | Check If It Is a Straight Line | Easy | Python3 | 2023-06-08T20:04:57+00:00 | [code](./1232-check-if-it-is-a-straight-line.py) / [readme](./1232-check-if-it-is-a-straight-line.python3.md) | Array, Math, Geometry |
 | 1385 | Find the Distance Value Between Two Arrays | Easy | Python3 | 2023-06-05T10:34:22+00:00 | [code](./1385-find-the-distance-value-between-two-arrays.py) / [readme](./1385-find-the-distance-value-between-two-arrays.python3.md) | Array, Two Pointers, Binary Search, Sorting |

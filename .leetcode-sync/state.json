@@ -133,7 +133,8 @@
     1958087377,
     1958230501,
     1958230876,
-    1958267174
+    1958267174,
+    1960421343
   ],
   "topic_cache": {
     "3sum": [
@@ -393,6 +394,10 @@
     ],
     "minimum-ascii-delete-sum-for-two-strings": [
       "String",
+      "Dynamic Programming"
+    ],
+    "minimum-cost-for-tickets": [
+      "Array",
       "Dynamic Programming"
     ],
     "minimum-insertion-steps-to-make-a-string-palindrome": [
