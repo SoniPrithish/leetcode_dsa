@@ -136,7 +136,8 @@
     1958267174,
     1960421343,
     1961274240,
-    1961280009
+    1961280009,
+    1961321644
   ],
   "topic_cache": {
     "3sum": [
@@ -360,6 +361,13 @@
       "Linked List",
       "Design",
       "Doubly-Linked List"
+    ],
+    "majority-element": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
     ],
     "max-consecutive-ones": [
       "Array"

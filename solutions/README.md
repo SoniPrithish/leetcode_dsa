@@ -31,6 +31,7 @@
 | 0146 | LRU Cache | Medium | Java | 2025-04-11T07:40:32+00:00 | [code](./Arrays/0146-lru-cache.java) / [readme](./Arrays/0146-lru-cache.java.md) | Hash Table, Linked List, Design, Doubly-Linked List |
 | 0153 | Find Minimum in Rotated Sorted Array | Medium | Python3 | 2023-06-05T10:20:43+00:00 | [code](./Arrays/0153-find-minimum-in-rotated-sorted-array.py) / [readme](./Arrays/0153-find-minimum-in-rotated-sorted-array.python3.md) | Array, Binary Search |
 | 0160 | Intersection of Two Linked Lists | Easy | Python3 | 2024-10-17T07:14:20+00:00 | [code](./Arrays/0160-intersection-of-two-linked-lists.py) / [readme](./Arrays/0160-intersection-of-two-linked-lists.python3.md) | Hash Table, Linked List, Two Pointers |
+| 0169 | Majority Element | Easy | Python3 | 2026-03-27T23:45:17+00:00 | [code](./Arrays/0169-majority-element.py) / [readme](./Arrays/0169-majority-element.python3.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 0189 | Rotate Array | Medium | Python3 | 2024-09-01T05:00:22+00:00 | [code](./Arrays/0189-rotate-array.py) / [readme](./Arrays/0189-rotate-array.python3.md) | Array, Math, Two Pointers |
 | 0198 | House Robber | Medium | Python3 | 2026-03-23T01:37:11+00:00 | [code](./Arrays/0198-house-robber.py) / [readme](./Arrays/0198-house-robber.python3.md) | Array, Dynamic Programming |
 | 0205 | Isomorphic Strings | Easy | Python3 | 2023-06-07T19:53:49+00:00 | [code](./Arrays/0205-isomorphic-strings.py) / [readme](./Arrays/0205-isomorphic-strings.python3.md) | Hash Table, String |
