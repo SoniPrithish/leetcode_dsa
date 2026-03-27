@@ -134,7 +134,8 @@
     1958230501,
     1958230876,
     1958267174,
-    1960421343
+    1960421343,
+    1961274240
   ],
   "topic_cache": {
     "3sum": [
@@ -371,6 +372,11 @@
       "Linked List",
       "Two Pointers",
       "Stack"
+    ],
+    "merge-sorted-array": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
     ],
     "merge-strings-alternately": [
       "Two Pointers",
