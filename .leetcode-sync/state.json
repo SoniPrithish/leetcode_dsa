@@ -137,7 +137,8 @@
     1960421343,
     1961274240,
     1961280009,
-    1961321644
+    1961321644,
+    1961334972
   ],
   "topic_cache": {
     "3sum": [
@@ -510,6 +511,10 @@
       "Math"
     ],
     "remove-duplicates-from-sorted-array": [
+      "Array",
+      "Two Pointers"
+    ],
+    "remove-duplicates-from-sorted-array-ii": [
       "Array",
       "Two Pointers"
     ],
