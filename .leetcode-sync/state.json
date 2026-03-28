@@ -138,7 +138,8 @@
     1961274240,
     1961280009,
     1961321644,
-    1961334972
+    1961334972,
+    1961459215
   ],
   "topic_cache": {
     "3sum": [
@@ -320,6 +321,11 @@
     "isomorphic-strings": [
       "Hash Table",
       "String"
+    ],
+    "jump-game": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
     ],
     "largest-rectangle-in-histogram": [
       "Array",
