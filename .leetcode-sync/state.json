@@ -139,7 +139,8 @@
     1961280009,
     1961321644,
     1961334972,
-    1961459215
+    1961459215,
+    1962254051
   ],
   "topic_cache": {
     "3sum": [
@@ -510,6 +511,10 @@
     "power-of-two": [
       "Math",
       "Bit Manipulation",
+      "Recursion"
+    ],
+    "powx-n": [
+      "Math",
       "Recursion"
     ],
     "range-addition-ii": [
