@@ -141,7 +141,8 @@
     1961334972,
     1961459215,
     1962254051,
-    1964193596
+    1964193596,
+    1964213906
   ],
   "topic_cache": {
     "3sum": [
@@ -248,6 +249,11 @@
       "Two Pointers",
       "String",
       "Greedy"
+    ],
+    "diameter-of-binary-tree": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
     ],
     "distribute-candies": [
       "Array",
