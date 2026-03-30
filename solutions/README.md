@@ -124,6 +124,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 0020 | Valid Parentheses | Easy | Java | 2025-03-29T08:19:46+00:00 | [code](./Strings/0020-valid-parentheses.java) / [readme](./Strings/0020-valid-parentheses.java.md) | String, Stack |
 | 0131 | Palindrome Partitioning | Medium | Java | 2025-06-18T07:09:39+00:00 | [code](./Strings/0131-palindrome-partitioning.java) / [readme](./Strings/0131-palindrome-partitioning.java.md) | String, Dynamic Programming, Backtracking |
+| 0392 | Is Subsequence | Easy | Python3 | 2026-03-30T19:52:59+00:00 | [code](./Strings/0392-is-subsequence.py) / [readme](./Strings/0392-is-subsequence.python3.md) | Two Pointers, String, Dynamic Programming |
 | 0516 | Longest Palindromic Subsequence | Medium | Python3 | 2026-03-23T20:09:20+00:00 | [code](./Strings/0516-longest-palindromic-subsequence.py) / [readme](./Strings/0516-longest-palindromic-subsequence.python3.md) | String, Dynamic Programming |
 | 0541 | Reverse String II | Easy | Python3 | 2023-06-08T18:38:05+00:00 | [code](./Strings/0541-reverse-string-ii.py) / [readme](./Strings/0541-reverse-string-ii.python3.md) | Two Pointers, String |
 | 0557 | Reverse Words in a String III | Easy | Python3 | 2023-06-08T18:23:08+00:00 | [code](./Strings/0557-reverse-words-in-a-string-iii.py) / [readme](./Strings/0557-reverse-words-in-a-string-iii.python3.md) | Two Pointers, String |

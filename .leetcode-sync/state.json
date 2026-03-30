@@ -143,7 +143,8 @@
     1962254051,
     1964193596,
     1964213906,
-    1964227343
+    1964227343,
+    1964232864
   ],
   "topic_cache": {
     "3sum": [
@@ -326,6 +327,11 @@
       "Hash Table",
       "Linked List",
       "Two Pointers"
+    ],
+    "is-subsequence": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
     ],
     "isomorphic-strings": [
       "Hash Table",
