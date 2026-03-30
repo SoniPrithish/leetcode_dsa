@@ -142,7 +142,8 @@
     1961459215,
     1962254051,
     1964193596,
-    1964213906
+    1964213906,
+    1964227343
   ],
   "topic_cache": {
     "3sum": [
@@ -529,6 +530,10 @@
     "powx-n": [
       "Math",
       "Recursion"
+    ],
+    "product-of-array-except-self": [
+      "Array",
+      "Prefix Sum"
     ],
     "range-addition-ii": [
       "Array",
