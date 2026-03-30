@@ -133,6 +133,12 @@
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Python3 | 2026-03-23T20:20:30+00:00 | [code](./Strings/1312-minimum-insertion-steps-to-make-a-string-palindrome.py) / [readme](./Strings/1312-minimum-insertion-steps-to-make-a-string-palindrome.python3.md) | String, Dynamic Programming |
 | 1768 | Merge Strings Alternately | Easy | Java | 2023-09-14T05:31:23+00:00 | [code](./Strings/1768-merge-strings-alternately.java) / [readme](./Strings/1768-merge-strings-alternately.java.md) | Two Pointers, String |
 
+## Trees
+
+| # | Title | Difficulty | Language | Submitted | Files | Topics |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0104 | Maximum Depth of Binary Tree | Easy | Python3 | 2026-03-30T18:58:38+00:00 | [code](./Trees/0104-maximum-depth-of-binary-tree.py) / [readme](./Trees/0104-maximum-depth-of-binary-tree.python3.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+
 ## Uncategorized
 
 | # | Title | Difficulty | Language | Submitted | Files | Topics |

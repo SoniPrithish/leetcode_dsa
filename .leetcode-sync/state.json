@@ -140,7 +140,8 @@
     1961321644,
     1961334972,
     1961459215,
-    1962254051
+    1962254051,
+    1964193596
   ],
   "topic_cache": {
     "3sum": [
@@ -379,6 +380,12 @@
     ],
     "max-consecutive-ones": [
       "Array"
+    ],
+    "maximum-depth-of-binary-tree": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
     ],
     "maximum-subarray": [
       "Array",
