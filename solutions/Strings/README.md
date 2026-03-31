@@ -3,6 +3,7 @@
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0020 | Valid Parentheses | Easy | Java | 2025-03-29T08:19:46+00:00 | [code](./0020-valid-parentheses.java) / [readme](./0020-valid-parentheses.java.md) | String, Stack |
+| 0091 | Decode Ways | Medium | Python3 | 2026-03-31T22:31:57+00:00 | [code](./0091-decode-ways.py) / [readme](./0091-decode-ways.python3.md) | String, Dynamic Programming |
 | 0131 | Palindrome Partitioning | Medium | Java | 2025-06-18T07:09:39+00:00 | [code](./0131-palindrome-partitioning.java) / [readme](./0131-palindrome-partitioning.java.md) | String, Dynamic Programming, Backtracking |
 | 0392 | Is Subsequence | Easy | Python3 | 2026-03-30T19:52:59+00:00 | [code](./0392-is-subsequence.py) / [readme](./0392-is-subsequence.python3.md) | Two Pointers, String, Dynamic Programming |
 | 0394 | Decode String | Medium | Python3 | 2026-03-30T20:48:57+00:00 | [code](./0394-decode-string.py) / [readme](./0394-decode-string.python3.md) | String, Stack, Recursion |

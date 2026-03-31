@@ -146,7 +146,8 @@
     1964227343,
     1964232864,
     1964263596,
-    1965313569
+    1965313569,
+    1965325114
   ],
   "topic_cache": {
     "3sum": [
@@ -243,6 +244,10 @@
       "String",
       "Stack",
       "Recursion"
+    ],
+    "decode-ways": [
+      "String",
+      "Dynamic Programming"
     ],
     "delete-and-earn": [
       "Array",
