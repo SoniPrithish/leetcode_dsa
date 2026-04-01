@@ -147,7 +147,8 @@
     1964232864,
     1964263596,
     1965313569,
-    1965325114
+    1965325114,
+    1965519002
   ],
   "topic_cache": {
     "3sum": [
@@ -281,6 +282,9 @@
       "Hash Table",
       "Bit Manipulation",
       "Counting"
+    ],
+    "domino-and-tromino-tiling": [
+      "Dynamic Programming"
     ],
     "fibonacci-number": [
       "Math",

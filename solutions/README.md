@@ -100,6 +100,7 @@
 | 0070 | Climbing Stairs | Easy | Python3 | 2026-03-15T02:48:28+00:00 | [code](./DP/0070-climbing-stairs.py) / [readme](./DP/0070-climbing-stairs.python3.md) | Math, Dynamic Programming, Memoization |
 | 0279 | Perfect Squares | Medium | Python3 | 2026-03-23T21:01:10+00:00 | [code](./DP/0279-perfect-squares.py) / [readme](./DP/0279-perfect-squares.python3.md) | Math, Dynamic Programming, Breadth-First Search |
 | 0509 | Fibonacci Number | Easy | Python3 | 2026-03-22T22:55:06+00:00 | [code](./DP/0509-fibonacci-number.py) / [readme](./DP/0509-fibonacci-number.python3.md) | Math, Dynamic Programming, Recursion, Memoization |
+| 0790 | Domino and Tromino Tiling | Medium | Python3 | 2026-04-01T05:27:17+00:00 | [code](./DP/0790-domino-and-tromino-tiling.py) / [readme](./DP/0790-domino-and-tromino-tiling.python3.md) | Dynamic Programming |
 | 1137 | N-th Tribonacci Number | Easy | Python3 | 2026-03-22T23:00:29+00:00 | [code](./DP/1137-n-th-tribonacci-number.py) / [readme](./DP/1137-n-th-tribonacci-number.python3.md) | Math, Dynamic Programming, Memoization |
 | 2466 | Count Ways To Build Good Strings | Medium | Python3 | 2026-03-31T21:56:28+00:00 | [code](./DP/2466-count-ways-to-build-good-strings.py) / [readme](./DP/2466-count-ways-to-build-good-strings.python3.md) | Dynamic Programming |
 
