@@ -148,7 +148,8 @@
     1964263596,
     1965313569,
     1965325114,
-    1965519002
+    1965519002,
+    1971238941
   ],
   "topic_cache": {
     "3sum": [
@@ -187,6 +188,10 @@
       "Array",
       "Dynamic Programming",
       "Greedy"
+    ],
+    "binary-search": [
+      "Array",
+      "Binary Search"
     ],
     "check-if-it-is-a-straight-line": [
       "Array",
