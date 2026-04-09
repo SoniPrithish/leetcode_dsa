@@ -152,7 +152,8 @@
     1971238941,
     1973052553,
     1973053219,
-    1973053542
+    1973053542,
+    1973059089
   ],
   "topic_cache": {
     "3sum": [
@@ -200,6 +201,11 @@
       "Stack",
       "Tree",
       "Depth-First Search",
+      "Binary Tree"
+    ],
+    "binary-tree-level-order-traversal": [
+      "Tree",
+      "Breadth-First Search",
       "Binary Tree"
     ],
     "binary-tree-postorder-traversal": [
