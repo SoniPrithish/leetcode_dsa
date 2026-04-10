@@ -161,7 +161,8 @@
     1974814576,
     1974825564,
     1974846296,
-    1974854915
+    1974854915,
+    1974864526
   ],
   "topic_cache": {
     "3sum": [
@@ -481,6 +482,12 @@
       "Array"
     ],
     "maximum-depth-of-binary-tree": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "maximum-level-sum-of-a-binary-tree": [
       "Tree",
       "Depth-First Search",
       "Breadth-First Search",
