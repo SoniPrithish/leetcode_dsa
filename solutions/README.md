@@ -99,6 +99,7 @@
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0070 | Climbing Stairs | Easy | Python3 | 2026-03-15T02:48:28+00:00 | [code](./DP/0070-climbing-stairs.py) / [readme](./DP/0070-climbing-stairs.python3.md) | Math, Dynamic Programming, Memoization |
+| 0124 | Binary Tree Maximum Path Sum | Hard | Python3 | 2026-04-10T22:43:48+00:00 | [code](./DP/0124-binary-tree-maximum-path-sum.py) / [readme](./DP/0124-binary-tree-maximum-path-sum.python3.md) | Dynamic Programming, Tree, Depth-First Search, Binary Tree |
 | 0279 | Perfect Squares | Medium | Python3 | 2026-03-23T21:01:10+00:00 | [code](./DP/0279-perfect-squares.py) / [readme](./DP/0279-perfect-squares.python3.md) | Math, Dynamic Programming, Breadth-First Search |
 | 0509 | Fibonacci Number | Easy | Python3 | 2026-03-22T22:55:06+00:00 | [code](./DP/0509-fibonacci-number.py) / [readme](./DP/0509-fibonacci-number.python3.md) | Math, Dynamic Programming, Recursion, Memoization |
 | 0790 | Domino and Tromino Tiling | Medium | Python3 | 2026-04-01T05:27:17+00:00 | [code](./DP/0790-domino-and-tromino-tiling.py) / [readme](./DP/0790-domino-and-tromino-tiling.python3.md) | Dynamic Programming |
