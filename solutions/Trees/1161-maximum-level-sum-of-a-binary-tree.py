@@ -14,5 +14,4 @@ class Solution:
             dfs(node.left,level+1)
             dfs(node.right,level+1)
         dfs(root,0)
-        print(result)
         return max(result,key=result.get)+1
