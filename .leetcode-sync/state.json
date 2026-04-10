@@ -154,7 +154,8 @@
     1973053219,
     1973053542,
     1973059089,
-    1974035697
+    1974035697,
+    1974113401
   ],
   "topic_cache": {
     "3sum": [
@@ -184,6 +185,11 @@
       "String",
       "Stack",
       "Simulation"
+    ],
+    "balanced-binary-tree": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
     ],
     "best-time-to-buy-and-sell-stock": [
       "Array",
