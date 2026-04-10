@@ -150,7 +150,7 @@
 | 0110 | Balanced Binary Tree | Easy | Python3 | 2026-04-10T04:11:54+00:00 | [code](./Trees/0110-balanced-binary-tree.py) / [readme](./Trees/0110-balanced-binary-tree.python3.md) | Tree, Depth-First Search, Binary Tree |
 | 0144 | Binary Tree Preorder Traversal | Easy | Python3 | 2026-04-08T23:49:56+00:00 | [code](./Trees/0144-binary-tree-preorder-traversal.py) / [readme](./Trees/0144-binary-tree-preorder-traversal.python3.md) | Stack, Tree, Depth-First Search, Binary Tree |
 | 0145 | Binary Tree Postorder Traversal | Easy | Python3 | 2026-04-08T23:51:06+00:00 | [code](./Trees/0145-binary-tree-postorder-traversal.py) / [readme](./Trees/0145-binary-tree-postorder-traversal.python3.md) | Stack, Tree, Depth-First Search, Binary Tree |
-| 0543 | Diameter of Binary Tree | Easy | Python3 | 2026-03-30T19:24:46+00:00 | [code](./Trees/0543-diameter-of-binary-tree.py) / [readme](./Trees/0543-diameter-of-binary-tree.python3.md) | Tree, Depth-First Search, Binary Tree |
+| 0543 | Diameter of Binary Tree | Easy | Python3 | 2026-04-10T04:21:47+00:00 | [code](./Trees/0543-diameter-of-binary-tree.py) / [readme](./Trees/0543-diameter-of-binary-tree.python3.md) | Tree, Depth-First Search, Binary Tree |
 
 ## Uncategorized
 
