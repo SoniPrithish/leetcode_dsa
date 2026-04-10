@@ -156,7 +156,7 @@
 | 0199 | Binary Tree Right Side View | Medium | Python3 | 2026-04-10T22:13:26+00:00 | [code](./Trees/0199-binary-tree-right-side-view.py) / [readme](./Trees/0199-binary-tree-right-side-view.python3.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0236 | Lowest Common Ancestor of a Binary Tree | Medium | Python3 | 2026-04-10T20:43:12+00:00 | [code](./Trees/0236-lowest-common-ancestor-of-a-binary-tree.py) / [readme](./Trees/0236-lowest-common-ancestor-of-a-binary-tree.python3.md) | Tree, Depth-First Search, Binary Tree |
 | 0543 | Diameter of Binary Tree | Easy | Python3 | 2026-04-10T04:21:47+00:00 | [code](./Trees/0543-diameter-of-binary-tree.py) / [readme](./Trees/0543-diameter-of-binary-tree.python3.md) | Tree, Depth-First Search, Binary Tree |
-| 1161 | Maximum Level Sum of a Binary Tree | Medium | Python3 | 2026-04-10T23:23:18+00:00 | [code](./Trees/1161-maximum-level-sum-of-a-binary-tree.py) / [readme](./Trees/1161-maximum-level-sum-of-a-binary-tree.python3.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 1161 | Maximum Level Sum of a Binary Tree | Medium | Python3 | 2026-04-10T23:31:42+00:00 | [code](./Trees/1161-maximum-level-sum-of-a-binary-tree.py) / [readme](./Trees/1161-maximum-level-sum-of-a-binary-tree.python3.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
 ## Uncategorized
 

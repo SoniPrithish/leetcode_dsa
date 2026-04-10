@@ -6,12 +6,16 @@
 #         self.right = right
 class Solution:
     def maxLevelSum(self, root: Optional[TreeNode]) -> int:
-        result= defaultdict(int)
+        level_sum=[]
         def dfs(node,level):
             if not node:
                 return
-            result[level]+=node.val
-            dfs(node.left,level+1)
-            dfs(node.right,level+1)
+            if level == len(level_sum):
+                level_sum.append(0)
+            
+            level_sum[level] += node.val
+
+            dfs(node.left, level + 1)
+            dfs(node.right, level + 1)
         dfs(root,0)
-        return max(result,key=result.get)+1
+        return level_sum.index(max(level_sum)) + 1
