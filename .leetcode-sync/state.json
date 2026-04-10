@@ -165,7 +165,8 @@
     1974864526,
     1974864659,
     1974864705,
-    1974866729
+    1974866729,
+    1974867882
   ],
   "topic_cache": {
     "3sum": [
@@ -743,6 +744,11 @@
     "uncrossed-lines": [
       "Array",
       "Dynamic Programming"
+    ],
+    "valid-anagram": [
+      "Hash Table",
+      "String",
+      "Sorting"
     ],
     "valid-mountain-array": [
       "Array"

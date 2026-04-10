@@ -38,6 +38,7 @@
 | 0217 | Contains Duplicate | Easy | Python3 | 2024-09-01T05:20:47+00:00 | [code](./0217-contains-duplicate.py) / [readme](./0217-contains-duplicate.python3.md) | Array, Hash Table, Sorting |
 | 0238 | Product of Array Except Self | Medium | Python3 | 2026-03-30T19:44:22+00:00 | [code](./0238-product-of-array-except-self.py) / [readme](./0238-product-of-array-except-self.python3.md) | Array, Prefix Sum |
 | 0239 | Sliding Window Maximum | Hard | Java | 2025-04-06T23:41:15+00:00 | [code](./0239-sliding-window-maximum.java) / [readme](./0239-sliding-window-maximum.java.md) | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |
+| 0242 | Valid Anagram | Easy | Python3 | 2026-04-10T23:36:45+00:00 | [code](./0242-valid-anagram.py) / [readme](./0242-valid-anagram.python3.md) | Hash Table, String, Sorting |
 | 0283 | Move Zeroes | Easy | Python3 | 2023-06-05T08:26:09+00:00 | [code](./0283-move-zeroes.py) / [readme](./0283-move-zeroes.python3.md) | Array, Two Pointers |
 | 0322 | Coin Change | Medium | Python3 | 2026-03-23T22:50:25+00:00 | [code](./0322-coin-change.py) / [readme](./0322-coin-change.python3.md) | Array, Dynamic Programming, Breadth-First Search |
 | 0350 | Intersection of Two Arrays II | Easy | Python3 | 2024-09-04T05:42:24+00:00 | [code](./0350-intersection-of-two-arrays-ii.py) / [readme](./0350-intersection-of-two-arrays-ii.python3.md) | Array, Hash Table, Two Pointers, Binary Search, Sorting |
