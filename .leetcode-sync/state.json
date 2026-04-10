@@ -156,7 +156,8 @@
     1973059089,
     1974035697,
     1974113401,
-    1974120059
+    1974120059,
+    1974182871
   ],
   "topic_cache": {
     "3sum": [
@@ -648,6 +649,12 @@
     "rotate-string": [
       "String",
       "String Matching"
+    ],
+    "same-tree": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
     ],
     "search-a-2d-matrix": [
       "Array",
