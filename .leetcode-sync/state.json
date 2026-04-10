@@ -157,7 +157,8 @@
     1974035697,
     1974113401,
     1974120059,
-    1974182871
+    1974182871,
+    1974814576
   ],
   "topic_cache": {
     "3sum": [
@@ -437,6 +438,11 @@
     "longest-palindromic-subsequence": [
       "String",
       "Dynamic Programming"
+    ],
+    "lowest-common-ancestor-of-a-binary-tree": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
     ],
     "lru-cache": [
       "Hash Table",
