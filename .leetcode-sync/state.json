@@ -167,7 +167,8 @@
     1974864705,
     1974866729,
     1974867882,
-    1974888622
+    1974888622,
+    1974892856
   ],
   "topic_cache": {
     "3sum": [
@@ -759,6 +760,10 @@
     ],
     "valid-mountain-array": [
       "Array"
+    ],
+    "valid-palindrome": [
+      "Two Pointers",
+      "String"
     ],
     "valid-parentheses": [
       "String",
