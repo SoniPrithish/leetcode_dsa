@@ -170,7 +170,8 @@
     1974888622,
     1974892856,
     1975701972,
-    1975761919
+    1975761919,
+    1975809363
   ],
   "topic_cache": {
     "3sum": [
@@ -568,6 +569,11 @@
       "String",
       "Stack",
       "Simulation"
+    ],
+    "minimum-window-substring": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
     ],
     "monotonic-array": [
       "Array"
