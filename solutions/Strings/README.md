@@ -8,6 +8,7 @@
 | 0131 | Palindrome Partitioning | Medium | Java | 2025-06-18T07:09:39+00:00 | [code](./0131-palindrome-partitioning.java) / [readme](./0131-palindrome-partitioning.java.md) | String, Dynamic Programming, Backtracking |
 | 0392 | Is Subsequence | Easy | Python3 | 2026-03-30T19:52:59+00:00 | [code](./0392-is-subsequence.py) / [readme](./0392-is-subsequence.python3.md) | Two Pointers, String, Dynamic Programming |
 | 0394 | Decode String | Medium | Python3 | 2026-03-30T20:48:57+00:00 | [code](./0394-decode-string.py) / [readme](./0394-decode-string.python3.md) | String, Stack, Recursion |
+| 0443 | String Compression | Medium | Python3 | 2026-04-11T22:45:47+00:00 | [code](./0443-string-compression.py) / [readme](./0443-string-compression.python3.md) | Two Pointers, String |
 | 0516 | Longest Palindromic Subsequence | Medium | Python3 | 2026-03-23T20:09:20+00:00 | [code](./0516-longest-palindromic-subsequence.py) / [readme](./0516-longest-palindromic-subsequence.python3.md) | String, Dynamic Programming |
 | 0541 | Reverse String II | Easy | Python3 | 2023-06-08T18:38:05+00:00 | [code](./0541-reverse-string-ii.py) / [readme](./0541-reverse-string-ii.python3.md) | Two Pointers, String |
 | 0557 | Reverse Words in a String III | Easy | Python3 | 2023-06-08T18:23:08+00:00 | [code](./0557-reverse-words-in-a-string-iii.py) / [readme](./0557-reverse-words-in-a-string-iii.python3.md) | Two Pointers, String |
