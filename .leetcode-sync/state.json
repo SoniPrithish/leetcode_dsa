@@ -169,7 +169,8 @@
     1974867882,
     1974888622,
     1974892856,
-    1975701972
+    1975701972,
+    1975761919
   ],
   "topic_cache": {
     "3sum": [
@@ -472,6 +473,11 @@
     "longest-palindromic-subsequence": [
       "String",
       "Dynamic Programming"
+    ],
+    "longest-repeating-character-replacement": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
     ],
     "longest-substring-without-repeating-characters": [
       "Hash Table",
