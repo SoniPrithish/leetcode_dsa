@@ -12,6 +12,7 @@
 | 0516 | Longest Palindromic Subsequence | Medium | Python3 | 2026-03-23T20:09:20+00:00 | [code](./0516-longest-palindromic-subsequence.py) / [readme](./0516-longest-palindromic-subsequence.python3.md) | String, Dynamic Programming |
 | 0541 | Reverse String II | Easy | Python3 | 2023-06-08T18:38:05+00:00 | [code](./0541-reverse-string-ii.py) / [readme](./0541-reverse-string-ii.python3.md) | Two Pointers, String |
 | 0557 | Reverse Words in a String III | Easy | Python3 | 2023-06-08T18:23:08+00:00 | [code](./0557-reverse-words-in-a-string-iii.py) / [readme](./0557-reverse-words-in-a-string-iii.python3.md) | Two Pointers, String |
+| 0647 | Palindromic Substrings | Medium | Python3 | 2026-04-11T23:44:09+00:00 | [code](./0647-palindromic-substrings.py) / [readme](./0647-palindromic-substrings.python3.md) | Two Pointers, String, Dynamic Programming |
 | 0678 | Valid Parenthesis String | Medium | Python3 | 2023-06-09T18:45:25+00:00 | [code](./0678-valid-parenthesis-string.py) / [readme](./0678-valid-parenthesis-string.python3.md) | String, Dynamic Programming, Stack, Greedy |
 | 0712 | Minimum ASCII Delete Sum for Two Strings | Medium | Python3 | 2023-06-09T18:11:18+00:00 | [code](./0712-minimum-ascii-delete-sum-for-two-strings.py) / [readme](./0712-minimum-ascii-delete-sum-for-two-strings.python3.md) | String, Dynamic Programming |
 | 0796 | Rotate String | Easy | Python3 | 2023-06-08T18:58:41+00:00 | [code](./0796-rotate-string.py) / [readme](./0796-rotate-string.python3.md) | String, String Matching |

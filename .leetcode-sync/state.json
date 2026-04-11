@@ -172,7 +172,8 @@
     1975701972,
     1975761919,
     1975809363,
-    1975831560
+    1975831560,
+    1975847787
   ],
   "topic_cache": {
     "3sum": [
@@ -630,6 +631,11 @@
       "String",
       "Dynamic Programming",
       "Backtracking"
+    ],
+    "palindromic-substrings": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
     ],
     "partition-list": [
       "Linked List",
