@@ -166,7 +166,8 @@
     1974864659,
     1974864705,
     1974866729,
-    1974867882
+    1974867882,
+    1974888622
   ],
   "topic_cache": {
     "3sum": [
@@ -383,6 +384,12 @@
       "String",
       "Queue",
       "Counting"
+    ],
+    "group-anagrams": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
     ],
     "guess-number-higher-or-lower": [
       "Binary Search",
