@@ -175,7 +175,8 @@
     1975831560,
     1975847787,
     1975853955,
-    1976782298
+    1976782298,
+    1976792018
   ],
   "topic_cache": {
     "3sum": [
@@ -775,6 +776,11 @@
     "string-compression": [
       "Two Pointers",
       "String"
+    ],
+    "subarray-sum-equals-k": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
     ],
     "subsets-ii": [
       "Array",
