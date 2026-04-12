@@ -48,6 +48,7 @@
 | 0377 | Combination Sum IV | Medium | Python3 | 2026-03-24T21:17:33+00:00 | [code](./0377-combination-sum-iv.py) / [readme](./0377-combination-sum-iv.python3.md) | Array, Dynamic Programming |
 | 0387 | First Unique Character in a String | Easy | Python3 | 2023-06-05T08:38:00+00:00 | [code](./0387-first-unique-character-in-a-string.py) / [readme](./0387-first-unique-character-in-a-string.python3.md) | Hash Table, String, Queue, Counting |
 | 0424 | Longest Repeating Character Replacement | Medium | Python3 | 2026-04-11T19:57:02+00:00 | [code](./0424-longest-repeating-character-replacement.py) / [readme](./0424-longest-repeating-character-replacement.python3.md) | Hash Table, String, Sliding Window |
+| 0438 | Find All Anagrams in a String | Medium | Python3 | 2026-04-12T22:10:16+00:00 | [code](./0438-find-all-anagrams-in-a-string.py) / [readme](./0438-find-all-anagrams-in-a-string.python3.md) | Hash Table, String, Sliding Window |
 | 0442 | Find All Duplicates in an Array | Medium | Python3 | 2023-06-04T18:25:29+00:00 | [code](./0442-find-all-duplicates-in-an-array.py) / [readme](./0442-find-all-duplicates-in-an-array.python3.md) | Array, Hash Table, Sorting |
 | 0455 | Assign Cookies | Easy | Java | 2025-03-25T23:53:18+00:00 | [code](./0455-assign-cookies.java) / [readme](./0455-assign-cookies.java.md) | Array, Two Pointers, Greedy, Sorting |
 | 0460 | LFU Cache | Hard | Java | 2025-05-28T22:20:19+00:00 | [code](./0460-lfu-cache.java) / [readme](./0460-lfu-cache.java.md) | Hash Table, Linked List, Design, Doubly-Linked List |
