@@ -176,7 +176,8 @@
     1975847787,
     1975853955,
     1976782298,
-    1976792018
+    1976792018,
+    1976797490
   ],
   "topic_cache": {
     "3sum": [
@@ -473,6 +474,11 @@
     "longest-common-subsequence": [
       "String",
       "Dynamic Programming"
+    ],
+    "longest-consecutive-sequence": [
+      "Array",
+      "Hash Table",
+      "Union-Find"
     ],
     "longest-harmonious-subsequence": [
       "Array",
