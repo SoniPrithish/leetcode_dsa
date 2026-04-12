@@ -131,6 +131,7 @@
 
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
 | --- | --- | --- | --- | --- | --- | --- |
+| 0005 | Longest Palindromic Substring | Medium | Python3 | 2026-04-12T00:06:59+00:00 | [code](./Strings/0005-longest-palindromic-substring.py) / [readme](./Strings/0005-longest-palindromic-substring.python3.md) | Two Pointers, String, Dynamic Programming |
 | 0020 | Valid Parentheses | Easy | Java | 2025-03-29T08:19:46+00:00 | [code](./Strings/0020-valid-parentheses.java) / [readme](./Strings/0020-valid-parentheses.java.md) | String, Stack |
 | 0091 | Decode Ways | Medium | Python3 | 2026-03-31T22:31:57+00:00 | [code](./Strings/0091-decode-ways.py) / [readme](./Strings/0091-decode-ways.python3.md) | String, Dynamic Programming |
 | 0125 | Valid Palindrome | Easy | Python3 | 2026-04-11T01:16:44+00:00 | [code](./Strings/0125-valid-palindrome.py) / [readme](./Strings/0125-valid-palindrome.python3.md) | Two Pointers, String |

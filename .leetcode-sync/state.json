@@ -173,7 +173,8 @@
     1975761919,
     1975809363,
     1975831560,
-    1975847787
+    1975847787,
+    1975853955
   ],
   "topic_cache": {
     "3sum": [
@@ -474,6 +475,11 @@
       "Counting"
     ],
     "longest-palindromic-subsequence": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "longest-palindromic-substring": [
+      "Two Pointers",
       "String",
       "Dynamic Programming"
     ],
