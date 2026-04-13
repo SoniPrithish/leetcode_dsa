@@ -184,7 +184,8 @@
     1977713869,
     1977751171,
     1977764744,
-    1977764939
+    1977764939,
+    1977782753
   ],
   "topic_cache": {
     "3sum": [
@@ -651,6 +652,12 @@
       "Breadth-First Search",
       "Union-Find",
       "Matrix"
+    ],
+    "number-of-provinces": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
     ],
     "number-of-students-unable-to-eat-lunch": [
       "Array",
