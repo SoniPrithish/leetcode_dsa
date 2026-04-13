@@ -178,7 +178,8 @@
     1976782298,
     1976792018,
     1976797490,
-    1976900700
+    1976900700,
+    1977693604
   ],
   "topic_cache": {
     "3sum": [
@@ -582,6 +583,9 @@
     "minimum-cost-for-tickets": [
       "Array",
       "Dynamic Programming"
+    ],
+    "minimum-distance-to-the-target-element": [
+      "Array"
     ],
     "minimum-insertion-steps-to-make-a-string-palindrome": [
       "String",
