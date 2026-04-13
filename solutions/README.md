@@ -118,6 +118,12 @@
 | 1137 | N-th Tribonacci Number | Easy | Python3 | 2026-03-22T23:00:29+00:00 | [code](./DP/1137-n-th-tribonacci-number.py) / [readme](./DP/1137-n-th-tribonacci-number.python3.md) | Math, Dynamic Programming, Memoization |
 | 2466 | Count Ways To Build Good Strings | Medium | Python3 | 2026-03-31T21:56:28+00:00 | [code](./DP/2466-count-ways-to-build-good-strings.py) / [readme](./DP/2466-count-ways-to-build-good-strings.python3.md) | Dynamic Programming |
 
+## Graphs
+
+| # | Title | Difficulty | Language | Submitted | Files | Topics |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1971 | Find if Path Exists in Graph | Easy | Python3 | 2026-04-13T22:45:52+00:00 | [code](./Graphs/1971-find-if-path-exists-in-graph.py) / [readme](./Graphs/1971-find-if-path-exists-in-graph.python3.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
+
 ## Math
 
 | # | Title | Difficulty | Language | Submitted | Files | Topics |

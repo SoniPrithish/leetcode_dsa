@@ -182,7 +182,8 @@
     1977693604,
     1977703381,
     1977713869,
-    1977751171
+    1977751171,
+    1977764744
   ],
   "topic_cache": {
     "3sum": [
@@ -384,6 +385,12 @@
       "Array",
       "Hash Table",
       "Sorting"
+    ],
+    "find-if-path-exists-in-graph": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
     ],
     "find-minimum-in-rotated-sorted-array": [
       "Array",
