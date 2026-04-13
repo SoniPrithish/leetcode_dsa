@@ -180,7 +180,8 @@
     1976797490,
     1976900700,
     1977693604,
-    1977703381
+    1977703381,
+    1977713869
   ],
   "topic_cache": {
     "3sum": [
@@ -526,6 +527,13 @@
       "Divide and Conquer",
       "Sorting",
       "Counting"
+    ],
+    "max-area-of-island": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
     ],
     "max-consecutive-ones": [
       "Array"

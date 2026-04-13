@@ -63,6 +63,7 @@
 | 0575 | Distribute Candies | Easy | Python3 | 2023-05-28T17:02:02+00:00 | [code](./0575-distribute-candies.py) / [readme](./0575-distribute-candies.python3.md) | Array, Hash Table |
 | 0594 | Longest Harmonious Subsequence | Easy | Python3 | 2023-05-27T19:20:09+00:00 | [code](./0594-longest-harmonious-subsequence.py) / [readme](./0594-longest-harmonious-subsequence.python3.md) | Array, Hash Table, Sliding Window, Sorting, Counting |
 | 0598 | Range Addition II | Easy | Python3 | 2023-06-02T18:58:56+00:00 | [code](./0598-range-addition-ii.py) / [readme](./0598-range-addition-ii.python3.md) | Array, Math |
+| 0695 | Max Area of Island | Medium | Python3 | 2026-04-13T20:29:39+00:00 | [code](./0695-max-area-of-island.py) / [readme](./0695-max-area-of-island.python3.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0704 | Binary Search | Easy | Python3 | 2026-04-07T05:43:57+00:00 | [code](./0704-binary-search.py) / [readme](./0704-binary-search.python3.md) | Array, Binary Search |
 | 0740 | Delete and Earn | Medium | Python3 | 2026-03-23T02:17:08+00:00 | [code](./0740-delete-and-earn.py) / [readme](./0740-delete-and-earn.python3.md) | Array, Hash Table, Dynamic Programming |
 | 0746 | Min Cost Climbing Stairs | Easy | Python3 | 2026-03-23T00:41:51+00:00 | [code](./0746-min-cost-climbing-stairs.py) / [readme](./0746-min-cost-climbing-stairs.python3.md) | Array, Dynamic Programming |
