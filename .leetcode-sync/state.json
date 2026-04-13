@@ -181,7 +181,8 @@
     1976900700,
     1977693604,
     1977703381,
-    1977713869
+    1977713869,
+    1977751171
   ],
   "topic_cache": {
     "3sum": [
@@ -759,6 +760,11 @@
     "rotate-string": [
       "String",
       "String Matching"
+    ],
+    "rotting-oranges": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
     ],
     "same-tree": [
       "Tree",
