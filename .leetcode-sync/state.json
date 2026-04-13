@@ -177,7 +177,8 @@
     1975853955,
     1976782298,
     1976792018,
-    1976797490
+    1976797490,
+    1976900700
   ],
   "topic_cache": {
     "3sum": [
@@ -621,6 +622,13 @@
     "next-permutation": [
       "Array",
       "Two Pointers"
+    ],
+    "number-of-islands": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
     ],
     "number-of-students-unable-to-eat-lunch": [
       "Array",

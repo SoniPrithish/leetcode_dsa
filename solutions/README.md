@@ -40,6 +40,7 @@
 | 0169 | Majority Element | Easy | Python3 | 2026-03-27T23:45:17+00:00 | [code](./Arrays/0169-majority-element.py) / [readme](./Arrays/0169-majority-element.python3.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 0189 | Rotate Array | Medium | Python3 | 2024-09-01T05:00:22+00:00 | [code](./Arrays/0189-rotate-array.py) / [readme](./Arrays/0189-rotate-array.python3.md) | Array, Math, Two Pointers |
 | 0198 | House Robber | Medium | Python3 | 2026-03-23T01:37:11+00:00 | [code](./Arrays/0198-house-robber.py) / [readme](./Arrays/0198-house-robber.python3.md) | Array, Dynamic Programming |
+| 0200 | Number of Islands | Medium | Python3 | 2026-04-13T03:31:59+00:00 | [code](./Arrays/0200-number-of-islands.py) / [readme](./Arrays/0200-number-of-islands.python3.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0205 | Isomorphic Strings | Easy | Python3 | 2023-06-07T19:53:49+00:00 | [code](./Arrays/0205-isomorphic-strings.py) / [readme](./Arrays/0205-isomorphic-strings.python3.md) | Hash Table, String |
 | 0217 | Contains Duplicate | Easy | Python3 | 2024-09-01T05:20:47+00:00 | [code](./Arrays/0217-contains-duplicate.py) / [readme](./Arrays/0217-contains-duplicate.python3.md) | Array, Hash Table, Sorting |
 | 0238 | Product of Array Except Self | Medium | Python3 | 2026-03-30T19:44:22+00:00 | [code](./Arrays/0238-product-of-array-except-self.py) / [readme](./Arrays/0238-product-of-array-except-self.python3.md) | Array, Prefix Sum |
