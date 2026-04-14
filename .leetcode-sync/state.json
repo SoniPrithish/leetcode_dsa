@@ -185,7 +185,8 @@
     1977751171,
     1977764744,
     1977764939,
-    1977782753
+    1977782753,
+    1977812801
   ],
   "topic_cache": {
     "3sum": [
@@ -869,6 +870,13 @@
       "Dynamic Programming",
       "Stack",
       "Greedy"
+    ],
+    "word-search": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
     ]
   }
 }
