@@ -187,7 +187,8 @@
     1977764939,
     1977782753,
     1977812801,
-    1977814309
+    1977814309,
+    1977877595
   ],
   "topic_cache": {
     "3sum": [
@@ -561,6 +562,10 @@
       "Depth-First Search",
       "Breadth-First Search",
       "Binary Tree"
+    ],
+    "maximum-number-of-vowels-in-a-substring-of-given-length": [
+      "String",
+      "Sliding Window"
     ],
     "maximum-subarray": [
       "Array",
