@@ -20,7 +20,7 @@
 | 0074 | Search a 2D Matrix | Medium | Python3 | 2023-06-07T09:34:41+00:00 | [code](./0074-search-a-2d-matrix.py) / [readme](./0074-search-a-2d-matrix.python3.md) | Array, Binary Search, Matrix |
 | 0075 | Sort Colors | Medium | Python3 | 2024-09-05T23:28:57+00:00 | [code](./0075-sort-colors.py) / [readme](./0075-sort-colors.python3.md) | Array, Two Pointers, Sorting |
 | 0076 | Minimum Window Substring | Hard | Python3 | 2026-04-11T21:40:05+00:00 | [code](./0076-minimum-window-substring.py) / [readme](./0076-minimum-window-substring.python3.md) | Hash Table, String, Sliding Window |
-| 0079 | Word Search | Medium | Python3 | 2026-04-14T01:29:07+00:00 | [code](./0079-word-search.py) / [readme](./0079-word-search.python3.md) | Array, String, Backtracking, Depth-First Search, Matrix |
+| 0079 | Word Search | Medium | Python3 | 2026-04-14T01:33:42+00:00 | [code](./0079-word-search.py) / [readme](./0079-word-search.python3.md) | Array, String, Backtracking, Depth-First Search, Matrix |
 | 0080 | Remove Duplicates from Sorted Array II | Medium | Python3 | 2026-03-28T00:38:56+00:00 | [code](./0080-remove-duplicates-from-sorted-array-ii.py) / [readme](./0080-remove-duplicates-from-sorted-array-ii.python3.md) | Array, Two Pointers |
 | 0084 | Largest Rectangle in Histogram | Hard | Java | 2025-04-06T20:59:13+00:00 | [code](./0084-largest-rectangle-in-histogram.java) / [readme](./0084-largest-rectangle-in-histogram.java.md) | Array, Stack, Monotonic Stack |
 | 0088 | Merge Sorted Array | Easy | Python3 | 2026-03-27T21:22:43+00:00 | [code](./0088-merge-sorted-array.py) / [readme](./0088-merge-sorted-array.python3.md) | Array, Two Pointers, Sorting |
