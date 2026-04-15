@@ -193,9 +193,16 @@
     1978747535,
     1978759610,
     1978805964,
-    1978827381
+    1978827381,
+    1978892964
   ],
   "topic_cache": {
+    "01-matrix": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ],
     "3sum": [
       "Array",
       "Two Pointers",
