@@ -62,7 +62,7 @@
 | 0496 | Next Greater Element I | Easy | Java | 2025-03-28T08:03:40+00:00 | [code](./0496-next-greater-element-i.java) / [readme](./0496-next-greater-element-i.java.md) | Array, Hash Table, Stack, Monotonic Stack |
 | 0518 | Coin Change II | Medium | Python3 | 2026-03-24T18:02:32+00:00 | [code](./0518-coin-change-ii.py) / [readme](./0518-coin-change-ii.python3.md) | Array, Dynamic Programming |
 | 0525 | Contiguous Array | Medium | Python3 | 2023-06-07T10:34:40+00:00 | [code](./0525-contiguous-array.py) / [readme](./0525-contiguous-array.python3.md) | Array, Hash Table, Prefix Sum |
-| 0542 | 01 Matrix | Medium | Python3 | 2026-04-15T05:46:46+00:00 | [code](./0542-01-matrix.py) / [readme](./0542-01-matrix.python3.md) | Array, Dynamic Programming, Breadth-First Search, Matrix |
+| 0542 | 01 Matrix | Medium | Python3 | 2026-04-15T05:56:45+00:00 | [code](./0542-01-matrix.py) / [readme](./0542-01-matrix.python3.md) | Array, Dynamic Programming, Breadth-First Search, Matrix |
 | 0560 | Subarray Sum Equals K | Medium | Python3 | 2026-04-12T22:41:21+00:00 | [code](./0560-subarray-sum-equals-k.py) / [readme](./0560-subarray-sum-equals-k.python3.md) | Array, Hash Table, Prefix Sum |
 | 0561 | Array Partition | Easy | Python3 | 2023-05-28T16:46:40+00:00 | [code](./0561-array-partition.py) / [readme](./0561-array-partition.python3.md) | Array, Greedy, Sorting, Counting Sort |
 | 0575 | Distribute Candies | Easy | Python3 | 2023-05-28T17:02:02+00:00 | [code](./0575-distribute-candies.py) / [readme](./0575-distribute-candies.python3.md) | Array, Hash Table |
