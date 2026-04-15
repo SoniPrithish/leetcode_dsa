@@ -188,7 +188,8 @@
     1977782753,
     1977812801,
     1977814309,
-    1977877595
+    1977877595,
+    1978730879
   ],
   "topic_cache": {
     "3sum": [
@@ -841,6 +842,13 @@
       "Array",
       "Backtracking",
       "Bit Manipulation"
+    ],
+    "surrounded-regions": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
     ],
     "time-needed-to-buy-tickets": [
       "Array",
