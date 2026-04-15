@@ -195,7 +195,8 @@
     1978805964,
     1978827381,
     1978892964,
-    1978901010
+    1978901010,
+    1979613409
   ],
   "topic_cache": {
     "01-matrix": [
@@ -348,6 +349,12 @@
     ],
     "count-ways-to-build-good-strings": [
       "Dynamic Programming"
+    ],
+    "course-schedule": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort"
     ],
     "decode-string": [
       "String",
