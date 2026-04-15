@@ -191,7 +191,8 @@
     1977877595,
     1978730879,
     1978747535,
-    1978759610
+    1978759610,
+    1978805964
   ],
   "topic_cache": {
     "3sum": [
@@ -475,6 +476,11 @@
       "Array",
       "Dynamic Programming",
       "Greedy"
+    ],
+    "keys-and-rooms": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory"
     ],
     "largest-rectangle-in-histogram": [
       "Array",
