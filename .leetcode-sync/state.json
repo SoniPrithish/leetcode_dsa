@@ -192,7 +192,8 @@
     1978730879,
     1978747535,
     1978759610,
-    1978805964
+    1978805964,
+    1978827381
   ],
   "topic_cache": {
     "3sum": [
@@ -667,6 +668,13 @@
     "next-permutation": [
       "Array",
       "Two Pointers"
+    ],
+    "number-of-enclaves": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
     ],
     "number-of-islands": [
       "Array",
