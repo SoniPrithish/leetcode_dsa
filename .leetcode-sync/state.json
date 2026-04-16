@@ -199,7 +199,8 @@
     1979613409,
     1979620784,
     1979640994,
-    1979680131
+    1979680131,
+    1979712849
   ],
   "topic_cache": {
     "01-matrix": [
@@ -493,6 +494,12 @@
       "Hash Table",
       "Linked List",
       "Two Pointers"
+    ],
+    "is-graph-bipartite": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
     ],
     "is-subsequence": [
       "Two Pointers",
