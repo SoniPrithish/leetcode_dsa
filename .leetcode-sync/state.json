@@ -198,7 +198,8 @@
     1978901010,
     1979613409,
     1979620784,
-    1979640994
+    1979640994,
+    1979680131
   ],
   "topic_cache": {
     "01-matrix": [
@@ -657,6 +658,12 @@
     ],
     "minimum-distance-to-the-target-element": [
       "Array"
+    ],
+    "minimum-height-trees": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort"
     ],
     "minimum-insertion-steps-to-make-a-string-palindrome": [
       "String",
