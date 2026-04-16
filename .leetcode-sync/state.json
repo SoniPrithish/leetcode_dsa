@@ -197,7 +197,8 @@
     1978892964,
     1978901010,
     1979613409,
-    1979620784
+    1979620784,
+    1979640994
   ],
   "topic_cache": {
     "01-matrix": [
@@ -423,6 +424,12 @@
       "Array",
       "Hash Table",
       "Sorting"
+    ],
+    "find-eventual-safe-states": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort"
     ],
     "find-if-path-exists-in-graph": [
       "Depth-First Search",
