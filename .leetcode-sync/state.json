@@ -196,7 +196,8 @@
     1978827381,
     1978892964,
     1978901010,
-    1979613409
+    1979613409,
+    1979620784
   ],
   "topic_cache": {
     "01-matrix": [
@@ -351,6 +352,12 @@
       "Dynamic Programming"
     ],
     "course-schedule": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort"
+    ],
+    "course-schedule-ii": [
       "Depth-First Search",
       "Breadth-First Search",
       "Graph Theory",
