@@ -200,7 +200,8 @@
     1979620784,
     1979640994,
     1979680131,
-    1979712849
+    1979712849,
+    1981281336
   ],
   "topic_cache": {
     "01-matrix": [
@@ -829,6 +830,11 @@
     "remove-nth-node-from-end-of-list": [
       "Linked List",
       "Two Pointers"
+    ],
+    "reorder-routes-to-make-all-paths-lead-to-the-city-zero": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory"
     ],
     "reverse-linked-list": [
       "Linked List",
