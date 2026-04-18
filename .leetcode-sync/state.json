@@ -207,7 +207,8 @@
     1981565870,
     1981571094,
     1981574750,
-    1981962879
+    1981962879,
+    1981978792
   ],
   "topic_cache": {
     "01-matrix": [
@@ -543,6 +544,14 @@
       "Depth-First Search",
       "Breadth-First Search",
       "Graph Theory"
+    ],
+    "kth-largest-element-in-a-stream": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
     ],
     "kth-largest-element-in-an-array": [
       "Array",
