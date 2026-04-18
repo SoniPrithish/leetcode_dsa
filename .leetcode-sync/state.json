@@ -208,7 +208,8 @@
     1981571094,
     1981574750,
     1981962879,
-    1981978792
+    1981978792,
+    1982055190
   ],
   "topic_cache": {
     "01-matrix": [
@@ -454,6 +455,13 @@
       "Breadth-First Search",
       "Union-Find",
       "Graph Theory"
+    ],
+    "find-median-from-data-stream": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
     ],
     "find-minimum-in-rotated-sorted-array": [
       "Array",
