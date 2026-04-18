@@ -202,7 +202,8 @@
     1979680131,
     1979712849,
     1981281336,
-    1981335077
+    1981335077,
+    1981336042
   ],
   "topic_cache": {
     "01-matrix": [
@@ -529,6 +530,13 @@
       "Depth-First Search",
       "Breadth-First Search",
       "Graph Theory"
+    ],
+    "kth-largest-element-in-an-array": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
     ],
     "largest-rectangle-in-histogram": [
       "Array",
