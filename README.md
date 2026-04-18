@@ -16,7 +16,7 @@ Personal archive of accepted LeetCode submissions, kept in sync from my account.
 | `solutions/README.md` | Master index of everything synced. |
 | `solutions/<topic>/README.md` | Index for that topic (when topic indexes are enabled). |
 | `notes/` | Optional short notes I write myself; merged into generated READMEs when present. |
-| `.leetcode-sync/` | Local sync state (processed submission IDs, caches). Listed in `.gitignore` so it is not committed. |
+
 
 Typical filenames look like `0001-two-sum.py` plus a small metadata file such as `0001-two-sum.python3.md`.
 
