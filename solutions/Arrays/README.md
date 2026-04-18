@@ -84,6 +84,7 @@
 | 0994 | Rotting Oranges | Medium | Python3 | 2026-04-13T22:02:31+00:00 | [code](./0994-rotting-oranges.py) / [readme](./0994-rotting-oranges.python3.md) | Array, Breadth-First Search, Matrix |
 | 1020 | Number of Enclaves | Medium | Python3 | 2026-04-15T04:18:52+00:00 | [code](./1020-number-of-enclaves.py) / [readme](./1020-number-of-enclaves.python3.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 1035 | Uncrossed Lines | Medium | Python3 | 2026-03-23T06:44:04+00:00 | [code](./1035-uncrossed-lines.py) / [readme](./1035-uncrossed-lines.python3.md) | Array, Dynamic Programming |
+| 1046 | Last Stone Weight | Easy | Python3 | 2026-04-18T17:52:57+00:00 | [code](./1046-last-stone-weight.py) / [readme](./1046-last-stone-weight.python3.md) | Array, Heap (Priority Queue) |
 | 1232 | Check If It Is a Straight Line | Easy | Python3 | 2023-06-08T20:04:57+00:00 | [code](./1232-check-if-it-is-a-straight-line.py) / [readme](./1232-check-if-it-is-a-straight-line.python3.md) | Array, Math, Geometry |
 | 1385 | Find the Distance Value Between Two Arrays | Easy | Python3 | 2023-06-05T10:34:22+00:00 | [code](./1385-find-the-distance-value-between-two-arrays.py) / [readme](./1385-find-the-distance-value-between-two-arrays.python3.md) | Array, Two Pointers, Binary Search, Sorting |
 | 1700 | Number of Students Unable to Eat Lunch | Easy | Java | 2023-09-06T17:32:38+00:00 | [code](./1700-number-of-students-unable-to-eat-lunch.java) / [readme](./1700-number-of-students-unable-to-eat-lunch.java.md) | Array, Stack, Queue, Simulation |
