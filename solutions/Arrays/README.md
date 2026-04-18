@@ -79,6 +79,7 @@
 | 0908 | Smallest Range I | Easy | Python3 | 2023-05-28T17:22:40+00:00 | [code](./0908-smallest-range-i.py) / [readme](./0908-smallest-range-i.python3.md) | Array, Math |
 | 0941 | Valid Mountain Array | Easy | Python3 | 2023-06-07T10:00:58+00:00 | [code](./0941-valid-mountain-array.py) / [readme](./0941-valid-mountain-array.python3.md) | Array |
 | 0942 | DI String Match | Easy | Python3 | 2023-06-06T18:24:03+00:00 | [code](./0942-di-string-match.py) / [readme](./0942-di-string-match.python3.md) | Array, Two Pointers, String, Greedy |
+| 0973 | K Closest Points to Origin | Medium | Python3 | 2026-04-18T08:25:12+00:00 | [code](./0973-k-closest-points-to-origin.py) / [readme](./0973-k-closest-points-to-origin.python3.md) | Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect |
 | 0983 | Minimum Cost For Tickets | Medium | Python3 | 2026-03-27T00:35:48+00:00 | [code](./0983-minimum-cost-for-tickets.py) / [readme](./0983-minimum-cost-for-tickets.python3.md) | Array, Dynamic Programming |
 | 0994 | Rotting Oranges | Medium | Python3 | 2026-04-13T22:02:31+00:00 | [code](./0994-rotting-oranges.py) / [readme](./0994-rotting-oranges.python3.md) | Array, Breadth-First Search, Matrix |
 | 1020 | Number of Enclaves | Medium | Python3 | 2026-04-15T04:18:52+00:00 | [code](./1020-number-of-enclaves.py) / [readme](./1020-number-of-enclaves.python3.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
