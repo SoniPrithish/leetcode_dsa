@@ -210,7 +210,8 @@
     1981962879,
     1981978792,
     1982055190,
-    1982073153
+    1982073153,
+    1982426480
   ],
   "topic_cache": {
     "01-matrix": [
@@ -682,6 +683,12 @@
       "Linked List",
       "Two Pointers",
       "Stack"
+    ],
+    "merge-k-sorted-lists": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
     ],
     "merge-sorted-array": [
       "Array",

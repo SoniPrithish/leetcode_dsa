@@ -4,6 +4,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 0019 | Remove Nth Node From End of List | Medium | Java | 2021-10-01T16:33:15+00:00 | [code](./0019-remove-nth-node-from-end-of-list.java) / [readme](./0019-remove-nth-node-from-end-of-list.java.md) | Linked List, Two Pointers |
 | 0019 | Remove Nth Node From End of List | Medium | Python3 | 2024-09-29T20:52:21+00:00 | [code](./0019-remove-nth-node-from-end-of-list.py) / [readme](./0019-remove-nth-node-from-end-of-list.python3.md) | Linked List, Two Pointers |
+| 0023 | Merge k Sorted Lists | Hard | Python3 | 2026-04-19T07:01:49+00:00 | [code](./0023-merge-k-sorted-lists.py) / [readme](./0023-merge-k-sorted-lists.python3.md) | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort |
 | 0061 | Rotate List | Medium | Python3 | 2025-03-18T04:52:59+00:00 | [code](./0061-rotate-list.py) / [readme](./0061-rotate-list.python3.md) | Linked List, Two Pointers |
 | 0086 | Partition List | Medium | Python3 | 2026-03-11T04:00:22+00:00 | [code](./0086-partition-list.py) / [readme](./0086-partition-list.python3.md) | Linked List, Two Pointers |
 | 0237 | Delete Node in a Linked List | Medium | Java | 2021-09-29T16:44:16+00:00 | [code](./0237-delete-node-in-a-linked-list.java) / [readme](./0237-delete-node-in-a-linked-list.java.md) | Linked List |
