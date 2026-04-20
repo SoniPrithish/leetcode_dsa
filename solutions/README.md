@@ -74,6 +74,7 @@
 | 0575 | Distribute Candies | Easy | Python3 | 2023-05-28T17:02:02+00:00 | [code](./Arrays/0575-distribute-candies.py) / [readme](./Arrays/0575-distribute-candies.python3.md) | Array, Hash Table |
 | 0594 | Longest Harmonious Subsequence | Easy | Python3 | 2023-05-27T19:20:09+00:00 | [code](./Arrays/0594-longest-harmonious-subsequence.py) / [readme](./Arrays/0594-longest-harmonious-subsequence.python3.md) | Array, Hash Table, Sliding Window, Sorting, Counting |
 | 0598 | Range Addition II | Easy | Python3 | 2023-06-02T18:58:56+00:00 | [code](./Arrays/0598-range-addition-ii.py) / [readme](./Arrays/0598-range-addition-ii.python3.md) | Array, Math |
+| 0621 | Task Scheduler | Medium | Python3 | 2026-04-20T04:24:15+00:00 | [code](./Arrays/0621-task-scheduler.py) / [readme](./Arrays/0621-task-scheduler.python3.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting |
 | 0695 | Max Area of Island | Medium | Python3 | 2026-04-13T20:29:39+00:00 | [code](./Arrays/0695-max-area-of-island.py) / [readme](./Arrays/0695-max-area-of-island.python3.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0704 | Binary Search | Easy | Python3 | 2026-04-07T05:43:57+00:00 | [code](./Arrays/0704-binary-search.py) / [readme](./Arrays/0704-binary-search.python3.md) | Array, Binary Search |
 | 0740 | Delete and Earn | Medium | Python3 | 2026-03-23T02:17:08+00:00 | [code](./Arrays/0740-delete-and-earn.py) / [readme](./Arrays/0740-delete-and-earn.python3.md) | Array, Hash Table, Dynamic Programming |

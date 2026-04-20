@@ -211,7 +211,8 @@
     1981978792,
     1982055190,
     1982073153,
-    1982426480
+    1982426480,
+    1983194588
   ],
   "topic_cache": {
     "01-matrix": [
@@ -985,6 +986,14 @@
       "Breadth-First Search",
       "Union-Find",
       "Matrix"
+    ],
+    "task-scheduler": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
     ],
     "time-needed-to-buy-tickets": [
       "Array",
