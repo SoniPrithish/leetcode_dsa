@@ -76,6 +76,7 @@
 | 0621 | Task Scheduler | Medium | Python3 | 2026-04-20T04:24:15+00:00 | [code](./0621-task-scheduler.py) / [readme](./0621-task-scheduler.python3.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting |
 | 0695 | Max Area of Island | Medium | Python3 | 2026-04-13T20:29:39+00:00 | [code](./0695-max-area-of-island.py) / [readme](./0695-max-area-of-island.python3.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0704 | Binary Search | Easy | Python3 | 2026-04-07T05:43:57+00:00 | [code](./0704-binary-search.py) / [readme](./0704-binary-search.python3.md) | Array, Binary Search |
+| 0739 | Daily Temperatures | Medium | Python3 | 2026-04-20T20:49:34+00:00 | [code](./0739-daily-temperatures.py) / [readme](./0739-daily-temperatures.python3.md) | Array, Stack, Monotonic Stack |
 | 0740 | Delete and Earn | Medium | Python3 | 2026-03-23T02:17:08+00:00 | [code](./0740-delete-and-earn.py) / [readme](./0740-delete-and-earn.python3.md) | Array, Hash Table, Dynamic Programming |
 | 0746 | Min Cost Climbing Stairs | Easy | Python3 | 2026-03-23T00:41:51+00:00 | [code](./0746-min-cost-climbing-stairs.py) / [readme](./0746-min-cost-climbing-stairs.python3.md) | Array, Dynamic Programming |
 | 0844 | Backspace String Compare | Easy | Python3 | 2023-06-08T19:48:07+00:00 | [code](./0844-backspace-string-compare.py) / [readme](./0844-backspace-string-compare.python3.md) | Two Pointers, String, Stack, Simulation |
