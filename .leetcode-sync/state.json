@@ -217,7 +217,8 @@
     1983955167,
     1983990182,
     1984009959,
-    1984023354
+    1984023354,
+    1984197592
   ],
   "topic_cache": {
     "01-matrix": [
@@ -946,6 +947,10 @@
       "Array",
       "Binary Search",
       "Matrix"
+    ],
+    "search-in-rotated-sorted-array": [
+      "Array",
+      "Binary Search"
     ],
     "set-matrix-zeroes": [
       "Array",
