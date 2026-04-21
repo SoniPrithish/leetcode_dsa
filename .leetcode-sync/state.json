@@ -216,7 +216,8 @@
     1983941012,
     1983955167,
     1983990182,
-    1984009959
+    1984009959,
+    1984023354
   ],
   "topic_cache": {
     "01-matrix": [
@@ -1018,6 +1019,13 @@
       "Bucket Sort",
       "Counting",
       "Quickselect"
+    ],
+    "trapping-rain-water": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
     ],
     "two-sum": [
       "Array",
