@@ -218,7 +218,8 @@
     1983990182,
     1984009959,
     1984023354,
-    1984197592
+    1984197592,
+    1985029183
   ],
   "topic_cache": {
     "01-matrix": [
@@ -695,6 +696,10 @@
       "Linked List",
       "Two Pointers",
       "Stack"
+    ],
+    "merge-intervals": [
+      "Array",
+      "Sorting"
     ],
     "merge-k-sorted-lists": [
       "Linked List",

@@ -20,6 +20,7 @@
 | 0051 | N-Queens | Hard | Java | 2025-07-26T08:04:40+00:00 | [code](./Arrays/0051-n-queens.java) / [readme](./Arrays/0051-n-queens.java.md) | Array, Backtracking |
 | 0053 | Maximum Subarray | Medium | Python3 | 2024-09-05T04:04:50+00:00 | [code](./Arrays/0053-maximum-subarray.py) / [readme](./Arrays/0053-maximum-subarray.python3.md) | Array, Divide and Conquer, Dynamic Programming |
 | 0055 | Jump Game | Medium | Python3 | 2026-03-28T05:42:59+00:00 | [code](./Arrays/0055-jump-game.py) / [readme](./Arrays/0055-jump-game.python3.md) | Array, Dynamic Programming, Greedy |
+| 0056 | Merge Intervals | Medium | Python3 | 2026-04-22T05:17:15+00:00 | [code](./Arrays/0056-merge-intervals.py) / [readme](./Arrays/0056-merge-intervals.python3.md) | Array, Sorting |
 | 0073 | Set Matrix Zeroes | Medium | Python3 | 2024-09-07T06:27:16+00:00 | [code](./Arrays/0073-set-matrix-zeroes.py) / [readme](./Arrays/0073-set-matrix-zeroes.python3.md) | Array, Hash Table, Matrix |
 | 0074 | Search a 2D Matrix | Medium | Python3 | 2023-06-07T09:34:41+00:00 | [code](./Arrays/0074-search-a-2d-matrix.py) / [readme](./Arrays/0074-search-a-2d-matrix.python3.md) | Array, Binary Search, Matrix |
 | 0075 | Sort Colors | Medium | Python3 | 2024-09-05T23:28:57+00:00 | [code](./Arrays/0075-sort-colors.py) / [readme](./Arrays/0075-sort-colors.python3.md) | Array, Two Pointers, Sorting |
