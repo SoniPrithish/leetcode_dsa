@@ -39,6 +39,7 @@
 | 0128 | Longest Consecutive Sequence | Medium | Python3 | 2026-04-12T22:58:13+00:00 | [code](./Arrays/0128-longest-consecutive-sequence.py) / [readme](./Arrays/0128-longest-consecutive-sequence.python3.md) | Array, Hash Table, Union-Find |
 | 0130 | Surrounded Regions | Medium | Python3 | 2026-04-15T00:47:17+00:00 | [code](./Arrays/0130-surrounded-regions.py) / [readme](./Arrays/0130-surrounded-regions.python3.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0133 | Clone Graph | Medium | Python3 | 2026-04-15T02:07:35+00:00 | [code](./Arrays/0133-clone-graph.py) / [readme](./Arrays/0133-clone-graph.python3.md) | Hash Table, Depth-First Search, Breadth-First Search, Graph Theory |
+| 0134 | Gas Station | Medium | Python3 | 2026-04-25T22:31:30+00:00 | [code](./Arrays/0134-gas-station.py) / [readme](./Arrays/0134-gas-station.python3.md) | Array, Greedy |
 | 0136 | Single Number | Easy | Python3 | 2023-05-30T21:02:48+00:00 | [code](./Arrays/0136-single-number.py) / [readme](./Arrays/0136-single-number.python3.md) | Array, Bit Manipulation |
 | 0138 | Copy List with Random Pointer | Medium | Python3 | 2025-03-17T21:25:14+00:00 | [code](./Arrays/0138-copy-list-with-random-pointer.py) / [readme](./Arrays/0138-copy-list-with-random-pointer.python3.md) | Hash Table, Linked List |
 | 0141 | Linked List Cycle | Easy | Python3 | 2024-10-21T23:27:09+00:00 | [code](./Arrays/0141-linked-list-cycle.py) / [readme](./Arrays/0141-linked-list-cycle.python3.md) | Hash Table, Linked List, Two Pointers |
