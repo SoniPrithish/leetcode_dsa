@@ -220,7 +220,8 @@
     1984023354,
     1984197592,
     1985029183,
-    1987499725
+    1987499725,
+    1988093153
   ],
   "topic_cache": {
     "01-matrix": [
@@ -522,6 +523,9 @@
       "Stack",
       "Design",
       "Queue"
+    ],
+    "insert-interval": [
+      "Array"
     ],
     "intersection-of-two-arrays-ii": [
       "Array",
