@@ -13,7 +13,7 @@
 | 0040 | Combination Sum II | Medium | Java | 2025-06-16T09:30:44+00:00 | [code](./0040-combination-sum-ii.java) / [readme](./0040-combination-sum-ii.java.md) | Array, Backtracking |
 | 0041 | First Missing Positive | Hard | Python3 | 2023-06-02T16:06:38+00:00 | [code](./0041-first-missing-positive.py) / [readme](./0041-first-missing-positive.python3.md) | Array, Hash Table |
 | 0042 | Trapping Rain Water | Hard | Python3 | 2026-04-21T00:30:59+00:00 | [code](./0042-trapping-rain-water.py) / [readme](./0042-trapping-rain-water.python3.md) | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
-| 0045 | Jump Game II | Medium | Python3 | 2026-04-25T20:41:49+00:00 | [code](./0045-jump-game-ii.py) / [readme](./0045-jump-game-ii.python3.md) | Array, Dynamic Programming, Greedy |
+| 0045 | Jump Game II | Medium | Python3 | 2026-04-25T21:32:04+00:00 | [code](./0045-jump-game-ii.py) / [readme](./0045-jump-game-ii.python3.md) | Array, Dynamic Programming, Greedy |
 | 0046 | Permutations | Medium | Java | 2025-07-25T07:48:02+00:00 | [code](./0046-permutations.java) / [readme](./0046-permutations.java.md) | Array, Backtracking |
 | 0049 | Group Anagrams | Medium | Python3 | 2026-04-11T01:00:28+00:00 | [code](./0049-group-anagrams.py) / [readme](./0049-group-anagrams.python3.md) | Array, Hash Table, String, Sorting |
 | 0051 | N-Queens | Hard | Java | 2025-07-26T08:04:40+00:00 | [code](./0051-n-queens.java) / [readme](./0051-n-queens.java.md) | Array, Backtracking |
