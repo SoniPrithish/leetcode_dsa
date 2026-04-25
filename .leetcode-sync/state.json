@@ -225,7 +225,8 @@
     1988105080,
     1988124539,
     1988124742,
-    1988142879
+    1988142879,
+    1988153163
   ],
   "topic_cache": {
     "01-matrix": [
@@ -866,6 +867,12 @@
       "Two Pointers",
       "String",
       "Dynamic Programming"
+    ],
+    "partition-labels": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
     ],
     "partition-list": [
       "Linked List",
