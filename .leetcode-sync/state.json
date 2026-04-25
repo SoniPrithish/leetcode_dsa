@@ -221,7 +221,8 @@
     1984197592,
     1985029183,
     1987499725,
-    1988093153
+    1988093153,
+    1988105080
   ],
   "topic_cache": {
     "01-matrix": [
@@ -555,6 +556,11 @@
       "String"
     ],
     "jump-game": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "jump-game-ii": [
       "Array",
       "Dynamic Programming",
       "Greedy"
