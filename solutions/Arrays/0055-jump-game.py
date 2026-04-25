@@ -1,12 +1,11 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        maxr=nums[0]
         n=len(nums)
-        
+        maxjump=nums[0]
+
         for i in range(n):
-            if(i>maxr):
-                print("I",i,"MAxr",maxr)
+            if i > maxjump:
                 return False
             jump=nums[i]
-            maxr=max(maxr,i+jump)
+            maxjump=max(maxjump,i+jump)
         return True
