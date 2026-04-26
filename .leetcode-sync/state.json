@@ -226,7 +226,8 @@
     1988124539,
     1988124742,
     1988142879,
-    1988153163
+    1988153163,
+    1988276868
   ],
   "topic_cache": {
     "01-matrix": [
@@ -807,6 +808,12 @@
     "next-permutation": [
       "Array",
       "Two Pointers"
+    ],
+    "non-overlapping-intervals": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
     ],
     "number-of-enclaves": [
       "Array",
