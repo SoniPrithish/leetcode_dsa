@@ -227,7 +227,8 @@
     1988124742,
     1988142879,
     1988153163,
-    1988276868
+    1988276868,
+    1988390007
   ],
   "topic_cache": {
     "01-matrix": [
@@ -587,6 +588,10 @@
       "Depth-First Search",
       "Breadth-First Search",
       "Graph Theory"
+    ],
+    "koko-eating-bananas": [
+      "Array",
+      "Binary Search"
     ],
     "kth-largest-element-in-a-stream": [
       "Tree",
