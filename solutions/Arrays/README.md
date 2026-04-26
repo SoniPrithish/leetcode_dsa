@@ -98,6 +98,7 @@
 | 0973 | K Closest Points to Origin | Medium | Python3 | 2026-04-18T08:31:22+00:00 | [code](./0973-k-closest-points-to-origin.py) / [readme](./0973-k-closest-points-to-origin.python3.md) | Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect |
 | 0983 | Minimum Cost For Tickets | Medium | Python3 | 2026-03-27T00:35:48+00:00 | [code](./0983-minimum-cost-for-tickets.py) / [readme](./0983-minimum-cost-for-tickets.python3.md) | Array, Dynamic Programming |
 | 0994 | Rotting Oranges | Medium | Python3 | 2026-04-13T22:02:31+00:00 | [code](./0994-rotting-oranges.py) / [readme](./0994-rotting-oranges.python3.md) | Array, Breadth-First Search, Matrix |
+| 1011 | Capacity To Ship Packages Within D Days | Medium | Python3 | 2026-04-26T22:30:44+00:00 | [code](./1011-capacity-to-ship-packages-within-d-days.py) / [readme](./1011-capacity-to-ship-packages-within-d-days.python3.md) | Array, Binary Search |
 | 1020 | Number of Enclaves | Medium | Python3 | 2026-04-15T04:18:52+00:00 | [code](./1020-number-of-enclaves.py) / [readme](./1020-number-of-enclaves.python3.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 1035 | Uncrossed Lines | Medium | Python3 | 2026-03-23T06:44:04+00:00 | [code](./1035-uncrossed-lines.py) / [readme](./1035-uncrossed-lines.python3.md) | Array, Dynamic Programming |
 | 1046 | Last Stone Weight | Easy | Python3 | 2026-04-18T17:52:57+00:00 | [code](./1046-last-stone-weight.py) / [readme](./1046-last-stone-weight.python3.md) | Array, Heap (Priority Queue) |

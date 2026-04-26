@@ -232,7 +232,8 @@
     1988399378,
     1988399665,
     1988951612,
-    1988951919
+    1988951919,
+    1988974106
   ],
   "topic_cache": {
     "01-matrix": [
@@ -326,6 +327,10 @@
       "Tree",
       "Breadth-First Search",
       "Binary Tree"
+    ],
+    "capacity-to-ship-packages-within-d-days": [
+      "Array",
+      "Binary Search"
     ],
     "cheapest-flights-within-k-stops": [
       "Dynamic Programming",
