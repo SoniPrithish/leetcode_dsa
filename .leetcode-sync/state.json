@@ -230,7 +230,8 @@
     1988276868,
     1988390007,
     1988399378,
-    1988399665
+    1988399665,
+    1988951612
   ],
   "topic_cache": {
     "01-matrix": [
@@ -475,6 +476,10 @@
       "Breadth-First Search",
       "Graph Theory",
       "Topological Sort"
+    ],
+    "find-first-and-last-position-of-element-in-sorted-array": [
+      "Array",
+      "Binary Search"
     ],
     "find-if-path-exists-in-graph": [
       "Depth-First Search",

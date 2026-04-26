@@ -9,6 +9,7 @@
 | 0027 | Remove Element | Easy | Java | 2023-09-02T05:12:36+00:00 | [code](./0027-remove-element.java) / [readme](./0027-remove-element.java.md) | Array, Two Pointers |
 | 0031 | Next Permutation | Medium | Python3 | 2024-09-06T20:57:50+00:00 | [code](./0031-next-permutation.py) / [readme](./0031-next-permutation.python3.md) | Array, Two Pointers |
 | 0033 | Search in Rotated Sorted Array | Medium | Python3 | 2026-04-21T06:11:24+00:00 | [code](./0033-search-in-rotated-sorted-array.py) / [readme](./0033-search-in-rotated-sorted-array.python3.md) | Array, Binary Search |
+| 0034 | Find First and Last Position of Element in Sorted Array | Medium | Python3 | 2026-04-26T21:17:38+00:00 | [code](./0034-find-first-and-last-position-of-element-in-sorted-array.py) / [readme](./0034-find-first-and-last-position-of-element-in-sorted-array.python3.md) | Array, Binary Search |
 | 0039 | Combination Sum | Medium | Java | 2025-06-13T08:22:09+00:00 | [code](./0039-combination-sum.java) / [readme](./0039-combination-sum.java.md) | Array, Backtracking |
 | 0040 | Combination Sum II | Medium | Java | 2025-06-16T09:30:44+00:00 | [code](./0040-combination-sum-ii.java) / [readme](./0040-combination-sum-ii.java.md) | Array, Backtracking |
 | 0041 | First Missing Positive | Hard | Python3 | 2023-06-02T16:06:38+00:00 | [code](./0041-first-missing-positive.py) / [readme](./0041-first-missing-positive.python3.md) | Array, Hash Table |
