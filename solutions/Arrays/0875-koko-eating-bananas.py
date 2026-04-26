@@ -1,7 +1,8 @@
 import math
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        left,right=1,max(piles)
+        totalbanana=sum(piles)
+        left,right=int(totalbanana/h) if int(totalbanana/h)>0 else 1,max(piles)
 
         while(left<right):
             mid=(left+right)//2
