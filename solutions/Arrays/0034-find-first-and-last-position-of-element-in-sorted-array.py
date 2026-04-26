@@ -1,6 +1,5 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        inf=float('inf')
         def binarysearchsmall(start,end,arr,target):
             smallest=-1
             while(start<=end):
@@ -25,7 +24,7 @@ class Solution:
                     start=mid+1
                 else:
                     end=mid-1
-            return biggest if biggest>=0 and biggest<len(nums) else -1
+            return biggest
         result=[]
         small=binarysearchsmall(0,len(nums)-1,nums,target)
         big=binarysearchbig(0,len(nums)-1,nums,target)
