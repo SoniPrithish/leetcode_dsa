@@ -235,7 +235,8 @@
     1988951919,
     1988974106,
     1992263543,
-    1992277859
+    1992277859,
+    1992300743
   ],
   "topic_cache": {
     "01-matrix": [
@@ -675,6 +676,11 @@
       "Sliding Window",
       "Sorting",
       "Counting"
+    ],
+    "longest-increasing-subsequence": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
     ],
     "longest-palindromic-subsequence": [
       "String",
