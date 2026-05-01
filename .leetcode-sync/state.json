@@ -234,7 +234,8 @@
     1988951612,
     1988951919,
     1988974106,
-    1992263543
+    1992263543,
+    1992277859
   ],
   "topic_cache": {
     "01-matrix": [
@@ -437,6 +438,12 @@
     "delete-the-middle-node-of-a-linked-list": [
       "Linked List",
       "Two Pointers"
+    ],
+    "design-add-and-search-words-data-structure": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
     ],
     "di-string-match": [
       "Array",
