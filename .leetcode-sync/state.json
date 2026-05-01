@@ -233,7 +233,8 @@
     1988399665,
     1988951612,
     1988951919,
-    1988974106
+    1988974106,
+    1992263543
   ],
   "topic_cache": {
     "01-matrix": [
@@ -547,6 +548,12 @@
       "Stack",
       "Design",
       "Queue"
+    ],
+    "implement-trie-prefix-tree": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
     ],
     "insert-interval": [
       "Array"
