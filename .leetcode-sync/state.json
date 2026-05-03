@@ -236,7 +236,8 @@
     1988974106,
     1992263543,
     1992277859,
-    1992300743
+    1992300743,
+    1994015464
   ],
   "topic_cache": {
     "01-matrix": [
@@ -911,6 +912,10 @@
     "palindromic-substrings": [
       "Two Pointers",
       "String",
+      "Dynamic Programming"
+    ],
+    "partition-equal-subset-sum": [
+      "Array",
       "Dynamic Programming"
     ],
     "partition-labels": [
