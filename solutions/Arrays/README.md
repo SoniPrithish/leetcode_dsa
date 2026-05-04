@@ -4,6 +4,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 0001 | Two Sum | Easy | Java | 2023-09-08T11:09:57+00:00 | [code](./0001-two-sum.java) / [readme](./0001-two-sum.java.md) | Array, Hash Table |
 | 0003 | Longest Substring Without Repeating Characters | Medium | Python3 | 2026-04-11T18:31:30+00:00 | [code](./0003-longest-substring-without-repeating-characters.py) / [readme](./0003-longest-substring-without-repeating-characters.python3.md) | Hash Table, String, Sliding Window |
+| 0011 | Container With Most Water | Medium | Python3 | 2026-05-04T22:23:39+00:00 | [code](./0011-container-with-most-water.py) / [readme](./0011-container-with-most-water.python3.md) | Array, Two Pointers, Greedy |
 | 0015 | 3Sum | Medium | Java | 2025-03-19T05:12:05+00:00 | [code](./0015-3sum.java) / [readme](./0015-3sum.java.md) | Array, Two Pointers, Sorting |
 | 0026 | Remove Duplicates from Sorted Array | Easy | Python3 | 2024-09-01T01:47:02+00:00 | [code](./0026-remove-duplicates-from-sorted-array.py) / [readme](./0026-remove-duplicates-from-sorted-array.python3.md) | Array, Two Pointers |
 | 0027 | Remove Element | Easy | Java | 2023-09-02T05:12:36+00:00 | [code](./0027-remove-element.java) / [readme](./0027-remove-element.java.md) | Array, Two Pointers |
