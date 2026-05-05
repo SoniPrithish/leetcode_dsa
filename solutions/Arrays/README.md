@@ -47,6 +47,7 @@
 | 0141 | Linked List Cycle | Easy | Python3 | 2024-10-21T23:27:09+00:00 | [code](./0141-linked-list-cycle.py) / [readme](./0141-linked-list-cycle.python3.md) | Hash Table, Linked List, Two Pointers |
 | 0142 | Linked List Cycle II | Medium | Python3 | 2024-10-23T18:15:48+00:00 | [code](./0142-linked-list-cycle-ii.py) / [readme](./0142-linked-list-cycle-ii.python3.md) | Hash Table, Linked List, Two Pointers |
 | 0146 | LRU Cache | Medium | Java | 2025-04-11T07:40:32+00:00 | [code](./0146-lru-cache.java) / [readme](./0146-lru-cache.java.md) | Hash Table, Linked List, Design, Doubly-Linked List |
+| 0152 | Maximum Product Subarray | Medium | Python3 | 2026-05-05T06:18:25+00:00 | [code](./0152-maximum-product-subarray.py) / [readme](./0152-maximum-product-subarray.python3.md) | Array, Dynamic Programming |
 | 0153 | Find Minimum in Rotated Sorted Array | Medium | Python3 | 2023-06-05T10:20:43+00:00 | [code](./0153-find-minimum-in-rotated-sorted-array.py) / [readme](./0153-find-minimum-in-rotated-sorted-array.python3.md) | Array, Binary Search |
 | 0160 | Intersection of Two Linked Lists | Easy | Python3 | 2024-10-17T07:14:20+00:00 | [code](./0160-intersection-of-two-linked-lists.py) / [readme](./0160-intersection-of-two-linked-lists.python3.md) | Hash Table, Linked List, Two Pointers |
 | 0169 | Majority Element | Easy | Python3 | 2026-03-27T23:45:17+00:00 | [code](./0169-majority-element.py) / [readme](./0169-majority-element.python3.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting |

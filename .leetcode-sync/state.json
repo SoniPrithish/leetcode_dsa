@@ -241,7 +241,8 @@
     1995317254,
     1995332922,
     1995350942,
-    1995413497
+    1995413497,
+    1995543195
   ],
   "topic_cache": {
     "01-matrix": [
@@ -754,6 +755,10 @@
     "maximum-number-of-vowels-in-a-substring-of-given-length": [
       "String",
       "Sliding Window"
+    ],
+    "maximum-product-subarray": [
+      "Array",
+      "Dynamic Programming"
     ],
     "maximum-subarray": [
       "Array",
