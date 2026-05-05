@@ -43,6 +43,7 @@
 | 0134 | Gas Station | Medium | Python3 | 2026-04-25T22:31:30+00:00 | [code](./0134-gas-station.py) / [readme](./0134-gas-station.python3.md) | Array, Greedy |
 | 0136 | Single Number | Easy | Python3 | 2023-05-30T21:02:48+00:00 | [code](./0136-single-number.py) / [readme](./0136-single-number.python3.md) | Array, Bit Manipulation |
 | 0138 | Copy List with Random Pointer | Medium | Python3 | 2025-03-17T21:25:14+00:00 | [code](./0138-copy-list-with-random-pointer.py) / [readme](./0138-copy-list-with-random-pointer.python3.md) | Hash Table, Linked List |
+| 0139 | Word Break | Medium | Python3 | 2026-05-05T03:21:55+00:00 | [code](./0139-word-break.py) / [readme](./0139-word-break.python3.md) | Array, Hash Table, String, Dynamic Programming, Trie, Memoization |
 | 0141 | Linked List Cycle | Easy | Python3 | 2024-10-21T23:27:09+00:00 | [code](./0141-linked-list-cycle.py) / [readme](./0141-linked-list-cycle.python3.md) | Hash Table, Linked List, Two Pointers |
 | 0142 | Linked List Cycle II | Medium | Python3 | 2024-10-23T18:15:48+00:00 | [code](./0142-linked-list-cycle-ii.py) / [readme](./0142-linked-list-cycle-ii.python3.md) | Hash Table, Linked List, Two Pointers |
 | 0146 | LRU Cache | Medium | Java | 2025-04-11T07:40:32+00:00 | [code](./0146-lru-cache.java) / [readme](./0146-lru-cache.java.md) | Hash Table, Linked List, Design, Doubly-Linked List |

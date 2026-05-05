@@ -240,7 +240,8 @@
     1994015464,
     1995317254,
     1995332922,
-    1995350942
+    1995350942,
+    1995413497
   ],
   "topic_cache": {
     "01-matrix": [
@@ -1159,6 +1160,14 @@
       "Dynamic Programming",
       "Stack",
       "Greedy"
+    ],
+    "word-break": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
     ],
     "word-search": [
       "Array",
