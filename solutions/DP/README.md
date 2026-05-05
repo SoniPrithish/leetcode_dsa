@@ -2,6 +2,7 @@
 
 | # | Title | Difficulty | Language | Submitted | Files | Topics |
 | --- | --- | --- | --- | --- | --- | --- |
+| 0062 | Unique Paths | Medium | Python3 | 2026-05-05T00:36:45+00:00 | [code](./0062-unique-paths.py) / [readme](./0062-unique-paths.python3.md) | Math, Dynamic Programming, Combinatorics |
 | 0070 | Climbing Stairs | Easy | Python3 | 2026-03-15T02:48:28+00:00 | [code](./0070-climbing-stairs.py) / [readme](./0070-climbing-stairs.python3.md) | Math, Dynamic Programming, Memoization |
 | 0124 | Binary Tree Maximum Path Sum | Hard | Python3 | 2026-04-10T22:43:48+00:00 | [code](./0124-binary-tree-maximum-path-sum.py) / [readme](./0124-binary-tree-maximum-path-sum.python3.md) | Dynamic Programming, Tree, Depth-First Search, Binary Tree |
 | 0279 | Perfect Squares | Medium | Python3 | 2026-03-23T21:01:10+00:00 | [code](./0279-perfect-squares.py) / [readme](./0279-perfect-squares.python3.md) | Math, Dynamic Programming, Breadth-First Search |
