@@ -244,7 +244,8 @@
     1995413497,
     1995543195,
     1996166594,
-    1996167547
+    1996167547,
+    1996304412
   ],
   "topic_cache": {
     "01-matrix": [
@@ -858,6 +859,13 @@
       "Math",
       "Dynamic Programming",
       "Memoization"
+    ],
+    "network-delay-time": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
     ],
     "next-greater-element-i": [
       "Array",
