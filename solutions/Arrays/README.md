@@ -35,6 +35,7 @@
 | 0088 | Merge Sorted Array | Easy | Python3 | 2026-03-27T21:22:43+00:00 | [code](./0088-merge-sorted-array.py) / [readme](./0088-merge-sorted-array.python3.md) | Array, Two Pointers, Sorting |
 | 0090 | Subsets II | Medium | Java | 2025-06-14T09:11:46+00:00 | [code](./0090-subsets-ii.java) / [readme](./0090-subsets-ii.java.md) | Array, Backtracking, Bit Manipulation |
 | 0118 | Pascal's Triangle | Easy | Python3 | 2024-09-05T23:06:11+00:00 | [code](./0118-pascals-triangle.py) / [readme](./0118-pascals-triangle.python3.md) | Array, Dynamic Programming |
+| 0120 | Triangle | Medium | Python3 | 2026-05-06T20:27:49+00:00 | [code](./0120-triangle.py) / [readme](./0120-triangle.python3.md) | Array, Dynamic Programming |
 | 0121 | Best Time to Buy and Sell Stock | Easy | Python3 | 2024-09-04T20:46:12+00:00 | [code](./0121-best-time-to-buy-and-sell-stock.py) / [readme](./0121-best-time-to-buy-and-sell-stock.python3.md) | Array, Dynamic Programming |
 | 0122 | Best Time to Buy and Sell Stock II | Medium | Python3 | 2024-09-01T04:51:47+00:00 | [code](./0122-best-time-to-buy-and-sell-stock-ii.py) / [readme](./0122-best-time-to-buy-and-sell-stock-ii.python3.md) | Array, Dynamic Programming, Greedy |
 | 0128 | Longest Consecutive Sequence | Medium | Python3 | 2026-04-12T22:58:13+00:00 | [code](./0128-longest-consecutive-sequence.py) / [readme](./0128-longest-consecutive-sequence.python3.md) | Array, Hash Table, Union-Find |

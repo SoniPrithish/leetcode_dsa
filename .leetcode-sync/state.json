@@ -246,7 +246,8 @@
     1996166594,
     1996167547,
     1996304412,
-    1996870423
+    1996870423,
+    1996906289
   ],
   "topic_cache": {
     "01-matrix": [
@@ -1141,6 +1142,10 @@
       "Dynamic Programming",
       "Stack",
       "Monotonic Stack"
+    ],
+    "triangle": [
+      "Array",
+      "Dynamic Programming"
     ],
     "two-sum": [
       "Array",
