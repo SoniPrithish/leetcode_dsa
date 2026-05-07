@@ -249,7 +249,8 @@
     1996870423,
     1996906289,
     1996914932,
-    1996915624
+    1996915624,
+    1997706597
   ],
   "topic_cache": {
     "01-matrix": [
@@ -1114,6 +1115,11 @@
       "Breadth-First Search",
       "Union-Find",
       "Matrix"
+    ],
+    "target-sum": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking"
     ],
     "task-scheduler": [
       "Array",
