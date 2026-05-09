@@ -51,6 +51,7 @@
 | 0152 | Maximum Product Subarray | Medium | Python3 | 2026-05-05T06:18:25+00:00 | [code](./0152-maximum-product-subarray.py) / [readme](./0152-maximum-product-subarray.python3.md) | Array, Dynamic Programming |
 | 0153 | Find Minimum in Rotated Sorted Array | Medium | Python3 | 2023-06-05T10:20:43+00:00 | [code](./0153-find-minimum-in-rotated-sorted-array.py) / [readme](./0153-find-minimum-in-rotated-sorted-array.python3.md) | Array, Binary Search |
 | 0160 | Intersection of Two Linked Lists | Easy | Python3 | 2024-10-17T07:14:20+00:00 | [code](./0160-intersection-of-two-linked-lists.py) / [readme](./0160-intersection-of-two-linked-lists.python3.md) | Hash Table, Linked List, Two Pointers |
+| 0167 | Two Sum II - Input Array Is Sorted | Medium | Python3 | 2026-05-09T05:13:26+00:00 | [code](./0167-two-sum-ii-input-array-is-sorted.py) / [readme](./0167-two-sum-ii-input-array-is-sorted.python3.md) | Array, Two Pointers, Binary Search |
 | 0169 | Majority Element | Easy | Python3 | 2026-03-27T23:45:17+00:00 | [code](./0169-majority-element.py) / [readme](./0169-majority-element.python3.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 0189 | Rotate Array | Medium | Python3 | 2024-09-01T05:00:22+00:00 | [code](./0189-rotate-array.py) / [readme](./0189-rotate-array.python3.md) | Array, Math, Two Pointers |
 | 0198 | House Robber | Medium | Python3 | 2026-03-23T01:37:11+00:00 | [code](./0198-house-robber.py) / [readme](./0198-house-robber.python3.md) | Array, Dynamic Programming |

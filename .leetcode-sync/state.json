@@ -250,7 +250,8 @@
     1996906289,
     1996914932,
     1996915624,
-    1997706597
+    1997706597,
+    1998560573
   ],
   "topic_cache": {
     "01-matrix": [
@@ -1158,6 +1159,11 @@
     "two-sum": [
       "Array",
       "Hash Table"
+    ],
+    "two-sum-ii-input-array-is-sorted": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
     ],
     "uncrossed-lines": [
       "Array",
