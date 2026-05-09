@@ -1,14 +1,11 @@
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        n=len(nums)
-        memo={}
-        def dfs(i,total):
-            if i==n:
-                return 1 if total==target else 0
-            if(i,total) in memo:
-                return memo[(i,total)]
-            positive=dfs(i+1,total+nums[i])
-            negative=dfs(i+1,total-nums[i])
-            memo[(i,total)]=positive +negative
-            return memo[(i,total)]
-        return dfs(0,0)
+        dp={0:1}
+
+        for num in nums:
+            next_dp={}
+            for s in dp:
+                next_dp[s+num]=next_dp.get(s+num,0)+dp[s]
+                next_dp[s-num]=next_dp.get(s-num,0)+dp[s]
+            dp=next_dp
+        return dp.get(target,0)

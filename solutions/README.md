@@ -83,7 +83,7 @@
 | 0455 | Assign Cookies | Easy | Java | 2025-03-25T23:53:18+00:00 | [code](./Arrays/0455-assign-cookies.java) / [readme](./Arrays/0455-assign-cookies.java.md) | Array, Two Pointers, Greedy, Sorting |
 | 0460 | LFU Cache | Hard | Java | 2025-05-28T22:20:19+00:00 | [code](./Arrays/0460-lfu-cache.java) / [readme](./Arrays/0460-lfu-cache.java.md) | Hash Table, Linked List, Design, Doubly-Linked List |
 | 0485 | Max Consecutive Ones | Easy | Python3 | 2025-03-17T21:33:51+00:00 | [code](./Arrays/0485-max-consecutive-ones.py) / [readme](./Arrays/0485-max-consecutive-ones.python3.md) | Array |
-| 0494 | Target Sum | Medium | Python3 | 2026-05-07T21:11:16+00:00 | [code](./Arrays/0494-target-sum.py) / [readme](./Arrays/0494-target-sum.python3.md) | Array, Dynamic Programming, Backtracking |
+| 0494 | Target Sum | Medium | Python3 | 2026-05-09T19:50:36+00:00 | [code](./Arrays/0494-target-sum.py) / [readme](./Arrays/0494-target-sum.python3.md) | Array, Dynamic Programming, Backtracking |
 | 0496 | Next Greater Element I | Easy | Java | 2025-03-28T08:03:40+00:00 | [code](./Arrays/0496-next-greater-element-i.java) / [readme](./Arrays/0496-next-greater-element-i.java.md) | Array, Hash Table, Stack, Monotonic Stack |
 | 0496 | Next Greater Element I | Easy | Python3 | 2026-04-20T20:19:09+00:00 | [code](./Arrays/0496-next-greater-element-i.py) / [readme](./Arrays/0496-next-greater-element-i.python3.md) | Array, Hash Table, Stack, Monotonic Stack |
 | 0503 | Next Greater Element II | Medium | Python3 | 2026-05-09T06:23:49+00:00 | [code](./Arrays/0503-next-greater-element-ii.py) / [readme](./Arrays/0503-next-greater-element-ii.python3.md) | Array, Stack, Monotonic Stack |
