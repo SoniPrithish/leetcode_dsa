@@ -253,7 +253,8 @@
     1997706597,
     1998560573,
     1998599264,
-    1999196497
+    1999196497,
+    1999216767
   ],
   "topic_cache": {
     "01-matrix": [
@@ -750,6 +751,13 @@
     ],
     "max-consecutive-ones": [
       "Array"
+    ],
+    "maximal-rectangle": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
     ],
     "maximum-depth-of-binary-tree": [
       "Tree",

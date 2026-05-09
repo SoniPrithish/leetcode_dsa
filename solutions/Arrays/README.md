@@ -32,6 +32,7 @@
 | 0080 | Remove Duplicates from Sorted Array II | Medium | Python3 | 2026-03-28T00:38:56+00:00 | [code](./0080-remove-duplicates-from-sorted-array-ii.py) / [readme](./0080-remove-duplicates-from-sorted-array-ii.python3.md) | Array, Two Pointers |
 | 0084 | Largest Rectangle in Histogram | Hard | Java | 2025-04-06T20:59:13+00:00 | [code](./0084-largest-rectangle-in-histogram.java) / [readme](./0084-largest-rectangle-in-histogram.java.md) | Array, Stack, Monotonic Stack |
 | 0084 | Largest Rectangle in Histogram | Hard | Python3 | 2026-04-20T23:42:42+00:00 | [code](./0084-largest-rectangle-in-histogram.py) / [readme](./0084-largest-rectangle-in-histogram.python3.md) | Array, Stack, Monotonic Stack |
+| 0085 | Maximal Rectangle | Hard | Python3 | 2026-05-09T20:39:09+00:00 | [code](./0085-maximal-rectangle.py) / [readme](./0085-maximal-rectangle.python3.md) | Array, Dynamic Programming, Stack, Matrix, Monotonic Stack |
 | 0088 | Merge Sorted Array | Easy | Python3 | 2026-03-27T21:22:43+00:00 | [code](./0088-merge-sorted-array.py) / [readme](./0088-merge-sorted-array.python3.md) | Array, Two Pointers, Sorting |
 | 0090 | Subsets II | Medium | Java | 2025-06-14T09:11:46+00:00 | [code](./0090-subsets-ii.java) / [readme](./0090-subsets-ii.java.md) | Array, Backtracking, Bit Manipulation |
 | 0118 | Pascal's Triangle | Easy | Python3 | 2024-09-05T23:06:11+00:00 | [code](./0118-pascals-triangle.py) / [readme](./0118-pascals-triangle.python3.md) | Array, Dynamic Programming |
