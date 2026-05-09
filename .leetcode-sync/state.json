@@ -254,7 +254,8 @@
     1998560573,
     1998599264,
     1999196497,
-    1999216767
+    1999216767,
+    1999268578
   ],
   "topic_cache": {
     "01-matrix": [
@@ -699,6 +700,16 @@
       "Sliding Window",
       "Sorting",
       "Counting"
+    ],
+    "longest-increasing-path-in-a-matrix": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
     ],
     "longest-increasing-subsequence": [
       "Array",
