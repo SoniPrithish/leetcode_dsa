@@ -86,6 +86,7 @@
 | 0494 | Target Sum | Medium | Python3 | 2026-05-07T21:11:16+00:00 | [code](./Arrays/0494-target-sum.py) / [readme](./Arrays/0494-target-sum.python3.md) | Array, Dynamic Programming, Backtracking |
 | 0496 | Next Greater Element I | Easy | Java | 2025-03-28T08:03:40+00:00 | [code](./Arrays/0496-next-greater-element-i.java) / [readme](./Arrays/0496-next-greater-element-i.java.md) | Array, Hash Table, Stack, Monotonic Stack |
 | 0496 | Next Greater Element I | Easy | Python3 | 2026-04-20T20:19:09+00:00 | [code](./Arrays/0496-next-greater-element-i.py) / [readme](./Arrays/0496-next-greater-element-i.python3.md) | Array, Hash Table, Stack, Monotonic Stack |
+| 0503 | Next Greater Element II | Medium | Python3 | 2026-05-09T06:23:49+00:00 | [code](./Arrays/0503-next-greater-element-ii.py) / [readme](./Arrays/0503-next-greater-element-ii.python3.md) | Array, Stack, Monotonic Stack |
 | 0518 | Coin Change II | Medium | Python3 | 2026-03-24T18:02:32+00:00 | [code](./Arrays/0518-coin-change-ii.py) / [readme](./Arrays/0518-coin-change-ii.python3.md) | Array, Dynamic Programming |
 | 0525 | Contiguous Array | Medium | Python3 | 2023-06-07T10:34:40+00:00 | [code](./Arrays/0525-contiguous-array.py) / [readme](./Arrays/0525-contiguous-array.python3.md) | Array, Hash Table, Prefix Sum |
 | 0542 | 01 Matrix | Medium | Python3 | 2026-04-15T05:56:45+00:00 | [code](./Arrays/0542-01-matrix.py) / [readme](./Arrays/0542-01-matrix.python3.md) | Array, Dynamic Programming, Breadth-First Search, Matrix |

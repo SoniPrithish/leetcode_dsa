@@ -251,7 +251,8 @@
     1996914932,
     1996915624,
     1997706597,
-    1998560573
+    1998560573,
+    1998599264
   ],
   "topic_cache": {
     "01-matrix": [
@@ -876,6 +877,11 @@
     "next-greater-element-i": [
       "Array",
       "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "next-greater-element-ii": [
+      "Array",
       "Stack",
       "Monotonic Stack"
     ],
