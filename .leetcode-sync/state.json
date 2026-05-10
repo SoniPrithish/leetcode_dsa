@@ -256,7 +256,8 @@
     1999196497,
     1999216767,
     1999268578,
-    1999318882
+    1999318882,
+    2000033531
   ],
   "topic_cache": {
     "01-matrix": [
@@ -544,6 +545,12 @@
       "Two Pointers",
       "Binary Search",
       "Sorting"
+    ],
+    "find-the-duplicate-number": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
     ],
     "first-missing-positive": [
       "Array",
