@@ -255,7 +255,8 @@
     1998599264,
     1999196497,
     1999216767,
-    1999268578
+    1999268578,
+    1999318882
   ],
   "topic_cache": {
     "01-matrix": [
@@ -399,6 +400,7 @@
       "Array",
       "Dynamic Programming"
     ],
+    "concatenate-array-with-reverse": [],
     "container-with-most-water": [
       "Array",
       "Two Pointers",
