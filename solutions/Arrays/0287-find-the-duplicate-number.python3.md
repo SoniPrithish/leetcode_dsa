@@ -4,5 +4,5 @@ problem_number = "0287"
 difficulty = "Medium"
 topics = ["Array", "Two Pointers", "Binary Search", "Bit Manipulation"]
 language = "Python3"
-submission_date = "2026-05-10T21:14:05+00:00"
+submission_date = "2026-05-10T21:45:01+00:00"
 +++
