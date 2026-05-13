@@ -258,7 +258,8 @@
     1999268578,
     1999318882,
     2000033531,
-    2000042836
+    2000042836,
+    2001783045
   ],
   "topic_cache": {
     "01-matrix": [
@@ -513,6 +514,13 @@
       "Array",
       "Hash Table",
       "Sorting"
+    ],
+    "find-all-possible-recipes-from-given-supplies": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph Theory",
+      "Topological Sort"
     ],
     "find-eventual-safe-states": [
       "Depth-First Search",
