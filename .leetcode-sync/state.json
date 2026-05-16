@@ -263,7 +263,8 @@
     2004280653,
     2004903287,
     2004906051,
-    2004909998
+    2004909998,
+    2004916694
   ],
   "topic_cache": {
     "01-matrix": [
@@ -578,6 +579,11 @@
     "gas-station": [
       "Array",
       "Greedy"
+    ],
+    "generate-parentheses": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
     ],
     "group-anagrams": [
       "Array",
