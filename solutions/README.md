@@ -19,6 +19,7 @@
 | 0042 | Trapping Rain Water | Hard | Python3 | 2026-04-21T00:30:59+00:00 | [code](./Arrays/0042-trapping-rain-water.py) / [readme](./Arrays/0042-trapping-rain-water.python3.md) | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
 | 0045 | Jump Game II | Medium | Python3 | 2026-04-25T21:32:36+00:00 | [code](./Arrays/0045-jump-game-ii.py) / [readme](./Arrays/0045-jump-game-ii.python3.md) | Array, Dynamic Programming, Greedy |
 | 0046 | Permutations | Medium | Java | 2025-07-25T07:48:02+00:00 | [code](./Arrays/0046-permutations.java) / [readme](./Arrays/0046-permutations.java.md) | Array, Backtracking |
+| 0046 | Permutations | Medium | Python3 | 2026-05-16T20:08:27+00:00 | [code](./Arrays/0046-permutations.py) / [readme](./Arrays/0046-permutations.python3.md) | Array, Backtracking |
 | 0049 | Group Anagrams | Medium | Python3 | 2026-04-11T01:00:28+00:00 | [code](./Arrays/0049-group-anagrams.py) / [readme](./Arrays/0049-group-anagrams.python3.md) | Array, Hash Table, String, Sorting |
 | 0051 | N-Queens | Hard | Java | 2025-07-26T08:04:40+00:00 | [code](./Arrays/0051-n-queens.java) / [readme](./Arrays/0051-n-queens.java.md) | Array, Backtracking |
 | 0053 | Maximum Subarray | Medium | Python3 | 2024-09-05T04:04:50+00:00 | [code](./Arrays/0053-maximum-subarray.py) / [readme](./Arrays/0053-maximum-subarray.python3.md) | Array, Divide and Conquer, Dynamic Programming |
