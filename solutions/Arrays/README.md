@@ -12,6 +12,7 @@
 | 0033 | Search in Rotated Sorted Array | Medium | Python3 | 2026-04-21T06:11:24+00:00 | [code](./0033-search-in-rotated-sorted-array.py) / [readme](./0033-search-in-rotated-sorted-array.python3.md) | Array, Binary Search |
 | 0034 | Find First and Last Position of Element in Sorted Array | Medium | Python3 | 2026-04-26T21:18:36+00:00 | [code](./0034-find-first-and-last-position-of-element-in-sorted-array.py) / [readme](./0034-find-first-and-last-position-of-element-in-sorted-array.python3.md) | Array, Binary Search |
 | 0039 | Combination Sum | Medium | Java | 2025-06-13T08:22:09+00:00 | [code](./0039-combination-sum.java) / [readme](./0039-combination-sum.java.md) | Array, Backtracking |
+| 0039 | Combination Sum | Medium | Python3 | 2026-05-16T20:17:17+00:00 | [code](./0039-combination-sum.py) / [readme](./0039-combination-sum.python3.md) | Array, Backtracking |
 | 0040 | Combination Sum II | Medium | Java | 2025-06-16T09:30:44+00:00 | [code](./0040-combination-sum-ii.java) / [readme](./0040-combination-sum-ii.java.md) | Array, Backtracking |
 | 0041 | First Missing Positive | Hard | Python3 | 2023-06-02T16:06:38+00:00 | [code](./0041-first-missing-positive.py) / [readme](./0041-first-missing-positive.python3.md) | Array, Hash Table |
 | 0042 | Trapping Rain Water | Hard | Python3 | 2026-04-21T00:30:59+00:00 | [code](./0042-trapping-rain-water.py) / [readme](./0042-trapping-rain-water.python3.md) | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
