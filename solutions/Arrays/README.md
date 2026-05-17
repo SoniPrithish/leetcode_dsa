@@ -21,6 +21,7 @@
 | 0046 | Permutations | Medium | Python3 | 2026-05-16T20:08:27+00:00 | [code](./0046-permutations.py) / [readme](./0046-permutations.python3.md) | Array, Backtracking |
 | 0049 | Group Anagrams | Medium | Python3 | 2026-04-11T01:00:28+00:00 | [code](./0049-group-anagrams.py) / [readme](./0049-group-anagrams.python3.md) | Array, Hash Table, String, Sorting |
 | 0051 | N-Queens | Hard | Java | 2025-07-26T08:04:40+00:00 | [code](./0051-n-queens.java) / [readme](./0051-n-queens.java.md) | Array, Backtracking |
+| 0051 | N-Queens | Hard | Python3 | 2026-05-17T01:02:15+00:00 | [code](./0051-n-queens.py) / [readme](./0051-n-queens.python3.md) | Array, Backtracking |
 | 0053 | Maximum Subarray | Medium | Python3 | 2024-09-05T04:04:50+00:00 | [code](./0053-maximum-subarray.py) / [readme](./0053-maximum-subarray.python3.md) | Array, Divide and Conquer, Dynamic Programming |
 | 0055 | Jump Game | Medium | Python3 | 2026-04-25T06:31:18+00:00 | [code](./0055-jump-game.py) / [readme](./0055-jump-game.python3.md) | Array, Dynamic Programming, Greedy |
 | 0056 | Merge Intervals | Medium | Python3 | 2026-04-22T05:17:15+00:00 | [code](./0056-merge-intervals.py) / [readme](./0056-merge-intervals.python3.md) | Array, Sorting |
